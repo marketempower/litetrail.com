@@ -1,0 +1,157 @@
+baseURL = "https://www.litetrail.com"
+
+title = "LiteTrail"
+languageCode = "en-us"
+defaultContentLanguage = "en"
+
+theme = "axiom"
+
+paginate = 15
+canonifyURLs = false
+summaryLength = 40
+rssLimit = 100
+enableEmoji = true
+enableRobotsTXT = true
+pluralizelisttitles = false
+
+[permalinks]
+posts = "/:filename"
+
+[params]
+mainSections = ["posts"]
+copyrightYear = 2012
+# Go Reference time: Mon Jan 2 15:04:05 MST 2006
+dateFormat = "Jan 2, 2006 3:04PM"
+highlight = false
+disableThemeAttribution = true
+
+[params.brand]
+domain = "litetrail.com"
+email = "info@litetrail.com"
+
+[params.social]
+facebook = "https://www.facebook.com/LiteTrail/"
+twitter = "https://twitter.com/litetrail"
+youtube = "https://www.youtube.com/c/LiteTrail"
+instagram = "https://www.instagram.com/litetrail/"
+footer = ["facebook", "twitter", "youtube", "instagram"]
+
+[params.services]
+analyticsId = "UA-37244619-3"
+adwordsId = "AW-659110413"
+adsenseId = "ca-pub-9657127730219095"
+adsenseAdSlotId = "9580665645"
+adsenseLazy = false
+adwordsConversionId = "F2YsCJ3Uk8oBEI30pLoC"
+adwordsConversionValue = 0
+facebookApp = ""
+facebookPixel = "1130262247309983"
+disqusShortname = ""
+
+[params.logo]
+inline = true
+path = "img/brand/logo.svg"
+
+[params.image]
+width = "2048"
+height = "1024"
+faviconIco = "favicon.ico"
+faviconAlt = "img/brand/favicon.png"
+icon1To1 = "img/brand/icon-1-1.png"
+icon2To1 = "img/brand/icon-2-1.png"
+default = "img/page-default.webp"
+
+[params.font]
+type = ""
+path = ""
+files = []
+
+[params.cdn]
+provider = "local"
+type = "image"
+
+[params.cloudinary]
+host = "https://res.cloudinary.com/CLOUD_NAME/"
+version = ""
+image = "image/upload/"
+raw = "raw/upload/"
+video = "video/upload/"
+
+[params.cloudinary.presets]
+base = "f_auto,q_auto/"
+page = "w_auto,dpr_auto,c_scale,f_auto,q_auto/"
+feature = "w_auto,dpr_auto,c_scale,f_auto,q_auto/"
+summary = "w_auto,dpr_auto,c_scale,f_auto,q_auto/"
+
+[outputs]
+home = ["HTML", "ATOM"]
+section = ["HTML"]
+taxonomy = ["HTML"]
+taxonomyTerm = ["HTML"]
+
+[outputFormats]
+[outputFormats.ATOM]
+name = "ATOM"
+baseName = "feed"
+mediaType = "application/atom+xml"
+
+[mediaTypes]
+[mediaTypes."application/atom+xml"]
+suffixes = ["atom"]
+
+[markup]
+[markup.goldmark]
+[markup.goldmark.extensions]
+definitionList = false
+footnote = true
+linkify = false
+strikethrough = false
+table = true
+taskList = false
+typographer = false
+[markup.goldmark.renderer]
+unsafe = true
+[markup.goldmark.parser]
+attribute = false
+[markup.highlight]
+codeFences = true
+noClasses = false
+tabWidth = 2
+# lineNos = true
+# lineNumbersInTable = false
+
+[menu]
+[[menu.main]]
+url = "/ultralight-thru-hike-gear-list/"
+name = "Gear List"
+weight = 1
+
+[[menu.main]]
+url = "/ultralight-gear-picks/"
+name = "Gear Picks"
+weight = 2
+
+# [[menu.foot]]
+# url = "/posts/"
+# name = "Posts"
+# weight = 1
+
+[[menu.foot]]
+url = "/about/"
+name = "About"
+weight = 2
+
+[[menu.foot]]
+url = "/contact/"
+name = "Contact"
+weight = 3
+
+[[menu.foot]]
+url = "/privacy/"
+name = "Privacy"
+weight = 4
+
+[languages]
+[languages."en"]
+weight = 1
+languageName = "English"

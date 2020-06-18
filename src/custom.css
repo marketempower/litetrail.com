@@ -1,0 +1,32 @@
+.card {
+  @apply relative overflow-hidden shadow mt-6;
+}
+
+.cdata > table {
+  & th, & td {
+    @apply border-t-0;
+  }
+}
+
+.cdata > table.table-gearlist {
+  @apply text-sm text-black;
+}
+
+.cdata > table.table-gearlist th, .cdata > table.table-gearlist td {
+  @apply p-05 border-gray-400;
+
+  &.text-right {
+    text-align: right !important;
+  }
+
+  &.border-t {
+    border-top-width: 1px !important;
+  }
+}
+
+@screen sm {
+  .card {
+    flex: 0 1 calc(33% - 1em);
+    @apply rounded shadow-lg;
+  }
+}
