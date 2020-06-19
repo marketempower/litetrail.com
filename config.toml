@@ -122,12 +122,12 @@ tabWidth = 2
 
 [menu]
 [[menu.main]]
-url = "/ultralight-thru-hike-gear-list/"
+url = "/ultralight-backpacking-gear-list/"
 name = "Gear List"
 weight = 1
 
 [[menu.main]]
-url = "/ultralight-gear-picks/"
+url = "/ultralight-backpacking-gear-picks/"
 name = "Gear Picks"
 weight = 2
 

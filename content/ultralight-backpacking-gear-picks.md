@@ -1,10 +1,10 @@
 +++
-title = "Ultralight Gear Picks"
+title = "Ultralight Backpacking Gear Picks"
 maxWidthContent = "max-w-4xl"
 +++
 
 {{< blocks/section class="cdata" width="max-w-680" mdown="off" >}}
-<p class="lead">My favorite pieces of ultralight backpacking gear, hand picked and trail tested. Many of these items are used in my <a href="{{< relref "ultralight-thru-hike-gear-list" >}}">Ultralight Thru Hike Gear List</a>.</p>
+<p class="lead">My favorite pieces of ultralight backpacking gear, hand picked and trail tested. Many of these items are used in my <a href="{{< relref "ultralight-backpacking-gear-list" >}}">Ultralight Backpacking Gear List</a>.</p>
 {{< /blocks/section >}}
 
 <div class="flex flex-wrap justify-between">

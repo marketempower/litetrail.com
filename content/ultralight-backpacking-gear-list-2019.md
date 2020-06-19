@@ -1,5 +1,5 @@
 +++
-title = "Ultralight Thru Hike Gear List 2019"
+title = "2019 Ultralight Backpacking Gear List 10lbs"
 maxWidthContent = "max-w-4xl"
 +++
 
@@ -8,7 +8,7 @@ maxWidthContent = "max-w-4xl"
 {{< /blocks/section >}}
 
 {{< blocks/justify >}}
-{{< button text="Download Printable PDF v201906" type="info" icon="download" href="pdf/ultralight-thru-hike-gear-list-v201906.pdf" >}}
+{{< button text="Download Printable PDF v201906" type="info" icon="download" href="pdf/ultralight-backpacking-gear-list-v201906.pdf" >}}
 {{< /blocks/justify >}}
 
 * * *

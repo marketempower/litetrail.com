@@ -1,5 +1,5 @@
 +++
-title = "Ultralight Thru Hike Gear List"
+title = "2020 Ultralight Backpacking Gear List 8.7lbs"
 caption = "Stoke level way up on an icy morning. Ojai, CA. Photo: Nick Bobroff"
 feature = "img/jw-chief-peak-20121230.jpg"
 maxWidthContent = "max-w-4xl"
@@ -7,11 +7,11 @@ maxWidthContent = "max-w-4xl"
 
 {{< blocks/section class="cdata" width="max-w-680" mdown="off" >}}
 <span class="text-raven-700">Updated June 15, 2020</span>
-<p class="lead">Over a decade of refinement, obsession, and testing has gone into the configuration of this gear list. This is my version of a sub 10-pound base pack weight (ultralight), 3-season capable, durable, efficient, full-featured, and smile enhancing gear list. I find it usable in temps down to the mid-teens Fahrenheit, and have allocated generous safety, survival, and first aid essentials. <a href="#why-10-pounds">Read more...</a></p>
+<p class="lead">Over a decade of refinement, obsession, and testing has gone into the configuration of this ultralight backpacking gear list. A sub 10-pound base pack weight (ultralight), 3-season capable, durable, efficient, full-featured, and smile enhancing gear list. Usable in temps down to the mid-teens Fahrenheit, with generous safety, survival, and first aid essentials. <a href="#why-10-pounds">Read more...</a></p>
 {{< /blocks/section >}}
 
 {{< blocks/justify >}}
-{{< button text="Download Printable PDF v202006" type="info" icon="download" href="pdf/ultralight-thru-hike-gear-list-v202006.pdf" >}}
+{{< button text="Download Printable PDF v202006" type="info" icon="download" href="pdf/ultralight-backpacking-gear-list-v202006.pdf" >}}
 {{< /blocks/justify >}}
 
 * * *
@@ -41,5 +41,5 @@ Think of this list as a template, and as long as you plug in items with similar 
 
 ### Archived Gear Lists
 
-Gear list version: [v201906]({{< relref "ultralight-thru-hike-gear-list-2019" >}})
+Previous Versions: [v201906]({{< relref "ultralight-backpacking-gear-list-2019" >}})
 {{< /blocks/section >}}
