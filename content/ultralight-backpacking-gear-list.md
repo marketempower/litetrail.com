@@ -1,4 +1,6 @@
 +++
+date = 2020-06-15T14:00:00Z
+lastmod = 2020-06-19T05:00:00Z
 title = "2020 Ultralight Backpacking Gear List 8.7lbs"
 caption = "Stoke level way up on an icy morning. Ojai, CA. Photo: Nick Bobroff"
 feature = "img/jw-chief-peak-20121230.jpg"

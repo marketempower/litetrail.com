@@ -1,4 +1,6 @@
 +++
+date = 2019-06-15T14:00:00Z
+lastmod = 2019-06-15T14:00:00Z
 title = "2019 Ultralight Backpacking Gear List 10lbs"
 maxWidthContent = "max-w-4xl"
 +++

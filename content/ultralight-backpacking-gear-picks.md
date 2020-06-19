@@ -1,4 +1,6 @@
 +++
+date = 2020-06-15T14:00:00Z
+lastmod = 2020-06-15T14:00:00Z
 title = "Ultralight Backpacking Gear Picks"
 maxWidthContent = "max-w-4xl"
 +++
