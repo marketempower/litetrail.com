@@ -1,12 +1,12 @@
 +++
 date = 2020-06-15T14:00:00Z
 lastmod = 2020-06-15T14:00:00Z
-title = "Ultralight Backpacking Gear Picks"
+title = "2020 Ultralight Backpacking Gear Picks"
 maxWidthContent = "max-w-4xl"
 +++
 
 {{< blocks/section class="cdata" width="max-w-680" mdown="off" >}}
-<p class="lead">My favorite pieces of ultralight backpacking gear, hand picked and trail tested. Many of these items are used in my <a href="{{< relref "ultralight-backpacking-gear-list" >}}">Ultralight Backpacking Gear List</a>.</p>
+<p class="lead">Our favorite pieces of ultralight backpacking gear for 2020, hand picked and trail tested. Many of these items are used in our <a href="{{< relref "ultralight-backpacking-gear-list" >}}">Ultralight Backpacking Gear List</a>.</p>
 {{< /blocks/section >}}
 
 <div class="flex flex-wrap justify-between">

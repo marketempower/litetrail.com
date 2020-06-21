@@ -297,7 +297,7 @@ function tableRowTitle($version)
     $s = '<tr>'.PHP_EOL;
     $s .= '<td colspan="4" class="border-0">'.PHP_EOL;
     $s .= '<h3 class="text-2xl text-center">Ultralight Backpacking Gear List</h3>'.PHP_EOL;
-    $s .= '<p class="text-sm text-center mb-2"><a href="https://www.litetrail.com/ultralight-backpacking-gear-list">litetrail.com/ultralight-backpacking-gear-list</a> &#8226; <span class="text-gray-700">'.$version.'</span></p>'.PHP_EOL;
+    $s .= '<p class="text-sm text-center mb-2"><a href="https://www.litetrail.com/ultralight-backpacking-gear-list/">litetrail.com/ultralight-backpacking-gear-list/</a> &#8226; <span class="text-gray-700">'.$version.'</span></p>'.PHP_EOL;
     $s .= '</td>'.PHP_EOL;
     $s .= '</tr>'.PHP_EOL;
 
