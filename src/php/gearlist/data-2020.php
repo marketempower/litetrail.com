@@ -62,9 +62,9 @@ $shelterData = [
 $sleepingTitle = 'Base Pack: Sleeping';
 $sleepingData = [
     ['Sleeping Bag',
-    '<a rel="nofollow" href="https://featheredfriends.com/products/tanager-cfl-20-ultralight-down-sleeping-bag">Feathered Friends Tanager 20 CFL</a>, S20 68" 12.6oz + 0.5oz overfill 950+ down',
+    '<a rel="nofollow" href="https://featheredfriends.com/products/tanager-cfl-20-ultralight-down-sleeping-bag">Feathered Friends Tanager 20 CFL</a>, S20 68" 12.6oz 950+ down fill',
     369.00,
-    19.10],
+    18.60],
     ['Sleeping Pad',
     '<a rel="nofollow" href="https://www.avantlink.com/click.php?tt=pl&ti=115&pw=149605&mi=10248&pt=3&pri=647426">NEMO Switchback</a>, Size R* (two panels removed), S20',
     49.95,
