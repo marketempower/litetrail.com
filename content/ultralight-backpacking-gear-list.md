@@ -9,7 +9,7 @@ maxWidthContent = "max-w-4xl"
 
 {{< blocks/section class="cdata" width="max-w-680" mdown="off" >}}
 <span class="text-raven-700" datetime="2020-06-21T21:00:00Z">Updated June 21, 2020.</span>
-<p class="lead">Over a decade of refinement, obsession, and testing has gone into the configuration of this ultralight backpacking gear list. A sub 10-pound base pack weight (ultralight), 3-season capable, durable, efficient, full-featured, and smile enhancing gear list. Usable in temps down to the mid-teens Fahrenheit, with generous safety, survival, and first aid essentials. <a href="#why-10-pounds">Read more...</a></p>
+<p class="lead">Over a decade of refinement, obsession, and testing has gone into the configuration of this ultralight backpacking gear list. A sub 10-pound base pack weight (ultralight), 3-season capable, durable, efficient, full-featured, and smile enhancing gear list. Usable in temps down to 20&#8457;, with generous safety, survival, and first aid essentials.</p>
 {{< /blocks/section >}}
 
 {{< blocks/justify >}}
@@ -18,7 +18,22 @@ maxWidthContent = "max-w-4xl"
 
 * * *
 
-{{< headless-resource "/gearlists/v202006" >}}
+{{< headless-resource "/gearlists/01-worn-carried-info" >}}
+{{< headless-resource "/gearlists/01-worn-carried-data" >}}
+{{< headless-resource "/gearlists/02-basepack-backpack-info" >}}
+{{< headless-resource "/gearlists/02-basepack-backpack-data" >}}
+{{< headless-resource "/gearlists/03-basepack-shelter-info" >}}
+{{< headless-resource "/gearlists/03-basepack-shelter-data" >}}
+{{< headless-resource "/gearlists/04-basepack-sleeping-info" >}}
+{{< headless-resource "/gearlists/04-basepack-sleeping-data" >}}
+{{< headless-resource "/gearlists/05-basepack-clothing-info" >}}
+{{< headless-resource "/gearlists/05-basepack-clothing-data" >}}
+{{< headless-resource "/gearlists/06-basepack-gear-info" >}}
+{{< headless-resource "/gearlists/06-basepack-gear-data" >}}
+{{< headless-resource "/gearlists/07-consumables-info" >}}
+{{< headless-resource "/gearlists/07-consumables-data" >}}
+{{< headless-resource "/gearlists/08-totals-info" >}}
+{{< headless-resource "/gearlists/08-totals-data" >}}
 
 * * *
 
@@ -37,11 +52,11 @@ On a thru hike one needs to account for things like town stops, recharging elect
 
 ### Plug and Play
 
-Many of the items in this list can be switched out for your preferred type, and not adversely effect the 10-pound threshold. For example, you may prefer a fully enclosed shelter with bug netting such as the [Hyperlite Mountain Gear Dirigo 2](https://www.avantlink.com/click.php?tt=app&ti=1019&mi=13757&pw=149605&url=https%3A%2F%2Fwww.garagegrowngear.com%2Fproducts%2Fdirigo-2-ultralight-backpacking-tent-by-hyperlite-mountain-gear) (28.0 oz), or the [Zpacks Duplex Tent](https://zpacks.com/products/duplex-tent?aff=37). (19.4 oz.).
+Many of the items in this list can be switched out for your preferred type, and not adversely effect the 10-pound threshold. For example, you may prefer a fully enclosed shelter with bug netting such as the [Zpacks Plexamid Tent](https://zpacks.com/products/plexamid-tent?aff=37) (15.3 oz.), or a backpack with more support such as the [Hyperlite Mountain Gear 2400 Junction](https://www.hyperlitemountaingear.com/collections/packs/products/2400-junction) (30.1oz).
 
 Think of this list as a template, and as long as you plug in items with similar function and weight, the end result will be a list customized for your needs that maintains a happy balance between weight and experience, while keeping you safe - so long as you fill up the space between your ears with the right knowledge, skills, and experience.
 
 ### Archived Gear Lists
 
-Previous Versions: [v201906]({{< relref "ultralight-backpacking-gear-list-2019" >}})
+Previous Versions: [v201906]({{< cdn-url "pdf/ultralight-backpacking-gear-list-v201906.pdf" >}})
 {{< /blocks/section >}}

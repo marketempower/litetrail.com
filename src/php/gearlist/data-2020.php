@@ -2,6 +2,7 @@
 $version = 'v202006';
 $basepackTitle = 'Base Pack';
 $completeTitle = 'Complete';
+$grandTotalTitle = 'Grand Total';
 $footnote = '*Indicates custom, modified, or myog/diy; weight may differ from stock.';
 $carriedTitle = 'Worn/Carried';
 $carriedData = [
