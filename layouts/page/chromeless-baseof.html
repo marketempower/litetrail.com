@@ -5,6 +5,8 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1,shrink-to-fit=no">
 
+  <title>{{ block "title" . }}{{ with .Title }}{{ . }} : {{ end }}{{ .Site.Title }}{{ end }}</title>
+
   {{- partial "styles-app" . }}
   {{- partial "styles-type" . }}
   {{- partial "scripts-head" . }}

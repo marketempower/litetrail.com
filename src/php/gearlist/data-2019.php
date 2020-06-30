@@ -27,7 +27,7 @@ $carriedData = [
     455.00,
     7.00],
     ['Trek Poles',
-    '<a ref="nofollow" href="https://locusgear.com/items/cp3">Locus Gear CP3</a> with Gossamer Gear Kork-o-Lon grips',
+    '<a rel="nofollow" href="https://locusgear.com/items/cp3">Locus Gear CP3</a> with Gossamer Gear Kork-o-Lon grips',
     195.00,
     10.00],
 ];

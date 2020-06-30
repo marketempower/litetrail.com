@@ -2,8 +2,12 @@
   @apply relative overflow-hidden shadow mt-6;
 }
 
+.cdata .mt-0 {
+  margin-top: 0;
+}
+
 .cdata > table.table-gearlist {
-  @apply text-sm text-black;
+  @apply text-black;
 
   & th, & td {
     @apply p-05;
@@ -32,5 +36,9 @@
   .card {
     flex: 0 1 calc(33% - 1em);
     @apply rounded shadow-lg;
+  }
+
+  .cdata > table.table-gearlist {
+    @apply text-sm;
   }
 }

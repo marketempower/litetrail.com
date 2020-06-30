@@ -1,43 +1,40 @@
 +++
 date = 2020-06-15T14:00:00Z
-lastmod = 2020-06-21T21:00:00Z
+lastmod = 2020-06-30T03:00:00Z
 title = "2020 Ultralight Backpacking Gear List 9 lb"
 caption = "Stoke level way up on an icy morning. Ojai, CA. Photo: Nick Bobroff"
 feature = "img/jw-chief-peak-20121230.jpg"
 maxWidthContent = "max-w-4xl"
 +++
 
-{{< blocks/section class="cdata" width="max-w-680" mdown="off" >}}
-<span class="text-raven-700" datetime="2020-06-21T21:00:00Z">Updated June 21, 2020.</span>
-<p class="lead">Over a decade of refinement, obsession, and testing has gone into the configuration of this ultralight backpacking gear list. A sub 10-pound base pack weight (ultralight), 3-season capable, durable, efficient, full-featured, and smile enhancing gear list. Usable in temps down to 20&#8457;, with generous safety, survival, and first aid essentials.</p>
+{{< blocks/section class="cdata" width="max-w-680" >}}
+<time class="text-raven-700" datetime="2020-06-30T03:00:00Z">Updated June 29, 2020.</time>
+<br>
+<span class="lead">Over a decade of refinement, obsession, and testing has gone into the configuration of this ultralight backpacking gear list. A sub 10-pound base pack weight (ultralight), 3-season capable, durable, efficient, full-featured, and smile enhancing gear list. Usable in temps down to 20&#8457;, with generous safety, survival, and first aid essentials.</span>
 {{< /blocks/section >}}
 
 {{< blocks/justify >}}
 {{< button text="Download Printable PDF v202006" type="base" icon="download" href="pdf/ultralight-backpacking-gear-list-v202006.pdf" >}}
 {{< /blocks/justify >}}
 
-* * *
-
-{{< headless-resource "/gearlists/01-worn-carried-info" >}}
+{{% headless-resource "/gearlists/01-worn-carried-info" %}}
 {{< headless-resource "/gearlists/01-worn-carried-data" >}}
-{{< headless-resource "/gearlists/02-basepack-backpack-info" >}}
+{{% headless-resource "/gearlists/02-basepack-backpack-info" %}}
 {{< headless-resource "/gearlists/02-basepack-backpack-data" >}}
-{{< headless-resource "/gearlists/03-basepack-shelter-info" >}}
+{{% headless-resource "/gearlists/03-basepack-shelter-info" %}}
 {{< headless-resource "/gearlists/03-basepack-shelter-data" >}}
-{{< headless-resource "/gearlists/04-basepack-sleeping-info" >}}
+{{% headless-resource "/gearlists/04-basepack-sleeping-info" %}}
 {{< headless-resource "/gearlists/04-basepack-sleeping-data" >}}
-{{< headless-resource "/gearlists/05-basepack-clothing-info" >}}
+{{% headless-resource "/gearlists/05-basepack-clothing-info" %}}
 {{< headless-resource "/gearlists/05-basepack-clothing-data" >}}
-{{< headless-resource "/gearlists/06-basepack-gear-info" >}}
+{{% headless-resource "/gearlists/06-basepack-gear-info" %}}
 {{< headless-resource "/gearlists/06-basepack-gear-data" >}}
-{{< headless-resource "/gearlists/07-consumables-info" >}}
+{{% headless-resource "/gearlists/07-consumables-info" %}}
 {{< headless-resource "/gearlists/07-consumables-data" >}}
-{{< headless-resource "/gearlists/08-totals-info" >}}
+{{% headless-resource "/gearlists/08-totals-info" %}}
 {{< headless-resource "/gearlists/08-totals-data" >}}
 
-* * *
-
-{{< blocks/section class="cdata" width="max-w-680" >}}
+{{% blocks/section class="cdata" width="max-w-680" %}}
 ### Why 10-Pounds?
 
 With today's technology and gear options that's the weight of a typical "ultralight" kit. A focus on lightweight items with a nod to durability. In the classic lightweight backpacking bible [Beyond Backpacking](https://www.amazon.com/dp/0963235931/?tag=ltrl-20), Ray Jardine configured an 8.5 pound base pack that he considered thru hike worthy. However, Ray hiked with a partner and they split up gear and each carried only a partial kit. For example, Jenny might carry the shelter kit, while Ray would carry the sleeping kit. If you were to weigh up Ray's pack fully allocated, it would likely land in the 10-pound range.
@@ -59,4 +56,4 @@ Think of this list as a template, and as long as you plug in items with similar 
 ### Archived Gear Lists
 
 Previous Versions: [v201906]({{< cdn-url "pdf/ultralight-backpacking-gear-list-v201906.pdf" >}})
-{{< /blocks/section >}}
+{{% /blocks/section %}}
