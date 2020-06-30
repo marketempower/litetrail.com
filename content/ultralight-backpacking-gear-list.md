@@ -4,10 +4,10 @@ lastmod = 2020-06-30T03:00:00Z
 title = "2020 Ultralight Backpacking Gear List 9 lb"
 caption = "Stoke level way up on an icy morning. Ojai, CA. Photo: Nick Bobroff"
 feature = "img/jw-chief-peak-20121230.jpg"
-maxWidthContent = "max-w-4xl"
+maxWidthContent = "max-w-6xl"
 +++
 
-{{< blocks/section class="cdata" width="max-w-680" >}}
+{{< blocks/section width="max-w-680" >}}
 <time class="text-raven-700" datetime="2020-06-30T03:00:00Z">Updated June 29, 2020.</time>
 <br>
 <span class="lead">Over a decade of refinement, obsession, and testing has gone into the configuration of this ultralight backpacking gear list. A sub 10-pound base pack weight (ultralight), 3-season capable, durable, efficient, full-featured, and smile enhancing gear list. Usable in temps down to 20&#8457;, with generous safety, survival, and first aid essentials.</span>
@@ -17,7 +17,17 @@ maxWidthContent = "max-w-4xl"
 {{< button text="Download Printable PDF v202006" type="base" icon="download" href="pdf/ultralight-backpacking-gear-list-v202006.pdf" >}}
 {{< /blocks/justify >}}
 
+* * *
+
+{{% blocks/row %}}
+{{% blocks/column-left %}}
 {{% headless-resource "/gearlists/01-worn-carried-info" %}}
+{{% /blocks/column-left %}}
+{{% blocks/column-right %}}
+{{< figure src="img/gear-list/01-worn-carried.webp" caption="Happy ultralight hiker in Yosemite." >}}
+{{% /blocks/column-right %}}
+{{% /blocks/row %}}
+
 {{< headless-resource "/gearlists/01-worn-carried-data" >}}
 {{% headless-resource "/gearlists/02-basepack-backpack-info" %}}
 {{< headless-resource "/gearlists/02-basepack-backpack-data" >}}
@@ -34,7 +44,9 @@ maxWidthContent = "max-w-4xl"
 {{% headless-resource "/gearlists/08-totals-info" %}}
 {{< headless-resource "/gearlists/08-totals-data" >}}
 
-{{% blocks/section class="cdata" width="max-w-680" %}}
+* * *
+
+{{% blocks/section width="max-w-680" %}}
 ### Why 10-Pounds?
 
 With today's technology and gear options that's the weight of a typical "ultralight" kit. A focus on lightweight items with a nod to durability. In the classic lightweight backpacking bible [Beyond Backpacking](https://www.amazon.com/dp/0963235931/?tag=ltrl-20), Ray Jardine configured an 8.5 pound base pack that he considered thru hike worthy. However, Ray hiked with a partner and they split up gear and each carried only a partial kit. For example, Jenny might carry the shelter kit, while Ray would carry the sleeping kit. If you were to weigh up Ray's pack fully allocated, it would likely land in the 10-pound range.

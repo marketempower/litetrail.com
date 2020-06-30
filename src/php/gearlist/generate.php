@@ -36,22 +36,10 @@ function tableHeader($title)
   $s = '<table class="table-gearlist">'.PHP_EOL;
   $s .= '<thead>'.PHP_EOL;
   $s .= '<tr class="bg-gray-200">'.PHP_EOL;
-  $s .= '<th colspan="2">'.$title.'</th>'.PHP_EOL;
+  $s .= '<th>'.$title.'</th>'.PHP_EOL;
+  $s .= '<th class="border-l">Item</th>'.PHP_EOL;
   $s .= '<th class="border-l text-right">Cost</th>'.PHP_EOL;
   $s .= '<th class="border-l text-right">Weight</th>'.PHP_EOL;
-  $s .= '</tr>'.PHP_EOL;
-  $s .= '</thead>'.PHP_EOL;
-  $s .= '<tbody>'.PHP_EOL;
-
-  return $s;
-}
-
-function tableSubHeader($title)
-{
-  $s = '<table class="table-gearlist">'.PHP_EOL;
-  $s .= '<thead>'.PHP_EOL;
-  $s .= '<tr class="bg-gray-200">'.PHP_EOL;
-  $s .= '<th colspan="4">'.$title.'</th>'.PHP_EOL;
   $s .= '</tr>'.PHP_EOL;
   $s .= '</thead>'.PHP_EOL;
   $s .= '<tbody>'.PHP_EOL;
@@ -158,7 +146,7 @@ file_put_contents($outputPath.'01-worn-carried-data.html', $s);
  * **************************************************
  */
 $s = '';
-$s .= tableSubHeader($backpackTitle);
+$s .= tableHeader($backpackTitle);
 
 $backpackCost = 0;
 $backpackWeight = 0;
@@ -186,7 +174,7 @@ file_put_contents($outputPath.'02-basepack-backpack-data.html', $s);
  * **************************************************
  */
 $s = '';
-$s .= tableSubHeader($shelterTitle);
+$s .= tableHeader($shelterTitle);
 
 $shelterCost = 0;
 $shelterWeight = 0;
@@ -218,7 +206,7 @@ file_put_contents($outputPath.'03-basepack-shelter-data.html', $s);
  * **************************************************
  */
 $s = '';
-$s .= tableSubHeader($sleepingTitle);
+$s .= tableHeader($sleepingTitle);
 
 $sleepingCost = 0;
 $sleepingWeight = 0;
@@ -250,7 +238,7 @@ file_put_contents($outputPath.'04-basepack-sleeping-data.html', $s);
  * **************************************************
  */
 $s = '';
-$s .= tableSubHeader($clothingTitle);
+$s .= tableHeader($clothingTitle);
 
 $clothingCost = 0;
 $clothingWeight = 0;
@@ -282,7 +270,7 @@ file_put_contents($outputPath.'05-basepack-clothing-data.html', $s);
  * **************************************************
  */
 $s = '';
-$s .= tableSubHeader($gearTitle);
+$s .= tableHeader($gearTitle);
 
 $gearCost = 0;
 $gearWeight = 0;
@@ -314,7 +302,7 @@ file_put_contents($outputPath.'06-basepack-gear-data.html', $s);
  * **************************************************
  */
 $s = '';
-$s .= tableSubHeader($consumablesTitle);
+$s .= tableHeader($consumablesTitle);
 
 $consumablesCost = 0;
 $consumablesWeight = 0;

@@ -5,8 +5,8 @@ title = "2020 Ultralight Backpacking Gear Picks"
 maxWidthContent = "max-w-4xl"
 +++
 
-{{< blocks/section class="cdata" width="max-w-680" mdown="off" >}}
-<p class="lead">Our favorite pieces of ultralight backpacking gear for 2020, hand picked and trail tested. Many of these items are used in our <a href="{{< relref "ultralight-backpacking-gear-list" >}}">Ultralight Backpacking Gear List</a>.</p>
+{{< blocks/section width="max-w-680" >}}
+<span class="lead">Our favorite pieces of ultralight backpacking gear for 2020, hand picked and trail tested. Many of these items are used in our <a class="link" href="{{< relref "ultralight-backpacking-gear-list" >}}">Ultralight Backpacking Gear List</a>.</span>
 {{< /blocks/section >}}
 
 <div class="flex flex-wrap justify-between">

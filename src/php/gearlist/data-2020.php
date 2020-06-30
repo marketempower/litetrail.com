@@ -35,7 +35,7 @@ $carriedData = [
 $backpackTitle = 'Base Pack: Backpack';
 $backpackData = [
     'Backpack',
-    '<a rel="nofollow" href="https://palantepacks.com/product/v2/">Pa\'lante Packs V2</a>, S18 Black 37L Size 19"',
+    '<a rel="nofollow" href="https://palantepacks.com/product/v2/">Pa\'lante Packs V2</a>, S18 Black 37L Size 19", non-hipbelt version',
     245.00,
     15.70
 ];
