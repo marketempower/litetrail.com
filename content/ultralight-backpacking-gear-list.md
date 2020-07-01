@@ -1,6 +1,6 @@
 +++
 date = 2020-06-15T14:00:00Z
-lastmod = 2020-06-30T03:00:00Z
+lastmod = 2020-07-01T03:00:00Z
 title = "2020 Ultralight Backpacking Gear List 9 lb"
 caption = "Stoke level way up on an icy morning. Ojai, CA. Photo: Nick Bobroff"
 feature = "img/jw-chief-peak-20121230.jpg"
@@ -8,7 +8,7 @@ maxWidthContent = "max-w-6xl"
 +++
 
 {{< blocks/section width="max-w-680" >}}
-<time class="text-raven-700" datetime="2020-06-30T03:00:00Z">Updated June 29, 2020.</time>
+<time class="text-raven-700" datetime="2020-07-01T03:00:00Z">Updated July 1, 2020.</time>
 <br>
 <span class="lead">Over a decade of refinement, obsession, and testing has gone into the configuration of this ultralight backpacking gear list. A sub 10-pound base pack weight (ultralight), 3-season capable, durable, efficient, full-featured, and smile enhancing gear list. Usable in temps down to 20&#8457;, with generous safety, survival, and first aid essentials.</span>
 {{< /blocks/section >}}

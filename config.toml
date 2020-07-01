@@ -123,13 +123,8 @@ tabWidth = 2
 [menu]
 [[menu.main]]
 url = "/ultralight-backpacking-gear-list/"
-name = "Gear List"
+name = "UL Gear List"
 weight = 1
-
-[[menu.main]]
-url = "/ultralight-backpacking-gear-picks/"
-name = "Gear Picks"
-weight = 2
 
 # [[menu.foot]]
 # url = "/posts/"

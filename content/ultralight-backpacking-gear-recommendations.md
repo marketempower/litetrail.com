@@ -1,12 +1,12 @@
 +++
 date = 2020-06-15T14:00:00Z
 lastmod = 2020-06-15T14:00:00Z
-title = "2020 Ultralight Backpacking Gear Picks"
+title = "2020 Ultralight Backpacking Gear Recommendations"
 maxWidthContent = "max-w-4xl"
 +++
 
 {{< blocks/section width="max-w-680" >}}
-<span class="lead">Our favorite pieces of ultralight backpacking gear for 2020, hand picked and trail tested. Many of these items are used in our <a class="link" href="{{< relref "ultralight-backpacking-gear-list" >}}">Ultralight Backpacking Gear List</a>.</span>
+<span class="lead">Our favorite pieces of ultralight backpacking gear for 2020, hand picked and trail tested. Many of these items are used in our <a class="link" href="{{< relref "ultralight-backpacking-gear-list" >}}">9 lb Ultralight Backpacking Gear List 2020</a>.</span>
 {{< /blocks/section >}}
 
 <div class="flex flex-wrap justify-between">
