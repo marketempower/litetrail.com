@@ -1,11 +1,11 @@
 <?php
 'Backpack',
-'<a rel="nofollow" href="http://www.avantlink.com/click.php?tt=pl&ti=52&pw=149605&mi=10060&pt=3&pri=1178171">Hyperlite Mountain Gear Windrider 2400</a>*, S19 Black 40L Size M',
+'<a rel="nofollow" href="https://www.avantlink.com/click.php?tt=pl&ti=3502&pw=149605&mi=13582&pt=3&pri=340">Hyperlite Mountain Gear Windrider 2400</a>*, S19 Black 40L Size M',
 330.00,
 31.00
 
 ['Shelter',
-'<a rel="nofollow" href="https://www.avantlink.com/click.php?tt=app&ti=1019&mi=13757&pw=149605&url=https%3A%2F%2Fwww.garagegrowngear.com%2Fproducts%2Fflat-tarp-by-hyperlite-mountain-gear">Hyperlite Mountain Gear Flat Tarp</a>*, S19 8.5\'x8.5\' DCF8',
+'<a rel="nofollow" href="https://www.avantlink.com/click.php?tt=pl&ti=3502&pw=149605&mi=13582&pt=3&pri=375">Hyperlite Mountain Gear Flat Tarp</a>*, S19 8.5\'x8.5\' DCF8',
 355.00,
 8.05],
 ['Shelter',

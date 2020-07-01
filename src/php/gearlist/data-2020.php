@@ -135,7 +135,7 @@ $gearData = [
     30.00,
     16.00],
     ['Stuff Sack',
-    '<a rel="nofollow" href="http://www.avantlink.com/click.php?tt=pl&ti=52&pw=149605&mi=10060&pt=3&pri=1202390">Hyperlite Mountain Gear DCF11 Drawstring Stuff Sack</a> (small, 8x10, contains all of the above)',
+    '<a rel="nofollow" href="https://www.avantlink.com/click.php?tt=pl&ti=3502&pw=149605&mi=13582&pt=3&pri=427">Hyperlite Mountain Gear DCF8 Drawstring Stuff Sack</a> (small, 8x10, contains all of the above)',
     24.00,
     0.28],
     ['H20 Storage',

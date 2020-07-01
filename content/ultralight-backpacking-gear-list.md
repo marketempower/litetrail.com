@@ -7,7 +7,7 @@ feature = "img/jw-chief-peak-20121230.jpg"
 maxWidthContent = "max-w-6xl"
 +++
 
-{{< blocks/section width="max-w-680" >}}
+{{< blocks/section width="max-w-680" mdown=off >}}
 <time class="text-raven-700" datetime="2020-07-01T03:00:00Z">Updated July 1, 2020.</time>
 <br>
 <span class="lead">Over a decade of refinement, obsession, and testing has gone into the configuration of this ultralight backpacking gear list. A sub 10-pound base pack weight (ultralight), 3-season capable, durable, efficient, full-featured, and smile enhancing gear list. Usable in temps down to 20&#8457;, with generous safety, survival, and first aid essentials.</span>
@@ -16,6 +16,10 @@ maxWidthContent = "max-w-6xl"
 {{< blocks/justify >}}
 {{< button text="Download Printable PDF v202006" type="base" icon="download" href="pdf/ultralight-backpacking-gear-list-v202006.pdf" >}}
 {{< /blocks/justify >}}
+
+{{< blocks/section width="max-w-680" >}}
+> In each gear list section below, you'll find the author's* personal gear items being used for the 2020 season. *Male, 5 ft 9 in, 160 lbs/ 175 cm, 72.5 kg.
+{{< /blocks/section >}}
 
 * * *
 
@@ -61,7 +65,7 @@ On a thru hike one needs to account for things like town stops, recharging elect
 
 ### Plug and Play
 
-Many of the items in this list can be switched out for your preferred type, and not adversely effect the 10-pound threshold. For example, you may prefer a fully enclosed shelter with bug netting such as the [Zpacks Plexamid Tent](https://zpacks.com/products/plexamid-tent?aff=37) (15.3 oz.), or a backpack with more support such as the [Hyperlite Mountain Gear 2400 Junction](https://www.hyperlitemountaingear.com/collections/packs/products/2400-junction) (30.1oz).
+Many of the items in this list can be switched out for your preferred type, and not adversely effect the 10-pound threshold. For example, you may prefer a fully enclosed shelter with bug netting such as the [Zpacks Plexamid Tent](https://zpacks.com/products/plexamid-tent?aff=37) (15.3 oz.), or a backpack with more support such as the [Hyperlite Mountain Gear 2400 Junction](https://www.avantlink.com/click.php?tt=pl&ti=3502&pw=149605&mi=13582&pt=3&pri=340) (30.1oz).
 
 Think of this list as a template, and as long as you plug in items with similar function and weight, the end result will be a list customized for your needs that maintains a happy balance between weight and experience, while keeping you safe - so long as you fill up the space between your ears with the right knowledge, skills, and experience.
 
