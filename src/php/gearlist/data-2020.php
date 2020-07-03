@@ -1,5 +1,4 @@
 <?php
-$version = 'v202006';
 $basepackTitle = 'Base Pack';
 $completeTitle = 'Complete';
 $grandTotalTitle = 'Grand Total';
@@ -34,10 +33,14 @@ $carriedData = [
 
 $backpackTitle = 'Base Pack: Backpack';
 $backpackData = [
-    'Backpack',
+    ['Backpack',
     '<a rel="nofollow" href="https://palantepacks.com/product/v2/">Pa\'lante Packs V2</a>, S18 Black 37L Size 19", non-hipbelt version',
     245.00,
-    15.70
+    15.70],
+    ['Pack Liner',
+    '<a rel="nofollow" href="https://zpacks.com/products/nylopro-odor-barrier-bags?aff=37">Zpacks NyloPro Odor Barrier Bags</a>, Extra Large, 20"x36"',
+    6.00,
+    1.00]
 ];
 
 $shelterTitle = 'Base Pack: Shelter';

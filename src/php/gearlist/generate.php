@@ -1,5 +1,4 @@
 <?php
-// php generate.php > ../../../content/gearlists/v202006.html
 setlocale(LC_MONETARY, 'en_US');
 
 include './data-2020.php';
@@ -150,15 +149,19 @@ $s .= tableHeader($backpackTitle);
 
 $backpackCost = 0;
 $backpackWeight = 0;
-$s .= tableRowItem(
-    $backpackData[0], // Item
-    $backpackData[1], // Desc
-    toMoneyFormat($backpackData[2]), // Cost
-    toWeightFormat($backpackData[3]) // Weight
-);
+$d = sizeof($backpackData);
+for ($i=0; $i < $d ; $i++)
+{
+    $s .= tableRowItem(
+        $backpackData[$i][0], // Item
+        $backpackData[$i][1], // Desc
+        toMoneyFormat($backpackData[$i][2]), // Cost
+        toWeightFormat($backpackData[$i][3]) // Weight
+    );
 
-$backpackCost += $backpackData[2]; // Total Cost
-$backpackWeight += $backpackData[3]; // Total Weight
+    $backpackCost += $backpackData[$i][2]; // Total Cost
+    $backpackWeight += $backpackData[$i][3]; // Total Weight
+}
 
 $s .= tableTotal(
     $backpackTitle,

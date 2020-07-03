@@ -1,5 +1,4 @@
 <?php
-$version = 'v201906';
 $basepackTitle = 'Base Pack';
 $completeTitle = 'Complete';
 $grandTotalTitle = 'Grand Total';

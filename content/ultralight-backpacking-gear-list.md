@@ -5,6 +5,9 @@ title = "2020 Ultralight Backpacking Gear List 9 lb"
 caption = "Stoke level way up on an icy morning. Ojai, CA. Photo: Nick Bobroff"
 feature = "img/jw-chief-peak-20121230.jpg"
 maxWidthContent = "max-w-6xl"
+
+type = "chromeless"
+layout = "gear-list"
 +++
 
 {{< blocks/section width="max-w-680" mdown=off >}}
@@ -14,7 +17,7 @@ maxWidthContent = "max-w-6xl"
 {{< /blocks/section >}}
 
 {{< blocks/justify >}}
-{{< button text="Download Printable PDF v202006" type="base" icon="download" href="pdf/ultralight-backpacking-gear-list-v202006.pdf" >}}
+{{< button text="Download Printable PDF" type="base" icon="download" href="pdf/2020-ultralight-backpacking-gear-list-9-lb.pdf" >}}
 {{< /blocks/justify >}}
 
 {{< blocks/section width="max-w-680" >}}
@@ -71,5 +74,5 @@ Think of this list as a template, and as long as you plug in items with similar 
 
 ### Archived Gear Lists
 
-Previous Versions: [v201906]({{< cdn-url "pdf/ultralight-backpacking-gear-list-v201906.pdf" >}})
+Previous Versions: [v201906]({{< cdn-url "pdf/2019-ultralight-backpacking-gear-list-10-lb.pdf" >}})
 {{% /blocks/section %}}

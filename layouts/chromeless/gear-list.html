@@ -1,0 +1,23 @@
+{{ define "main" }}
+<div class="chromeless-single cdata">
+<style>
+  .logo svg { height: 2.5rem; width: auto; }
+  .shadow-xl { box-shadow: none; }
+  th { white-space: nowrap; }
+</style>
+<a class="logo flex justify-center" href="/" title="LiteTrail">{{ chomp (readFile "static/img/brand/logo.svg") | safeHTML }}</a>
+
+<div class="post-title font-content-title font-normal leading-tight tracking-default text-center" style="font-size:2.125rem; margin-top:1rem;">
+  {{ .Title }}
+</div>
+<div class="text-center mt-0">
+  <a class="link" href="https://www.litetrail.com/ultralight-backpacking-gear-list/">litetrail.com/ultralight-backpacking-gear-list</a>
+</div>
+
+{{ .Content }}
+
+<div class="text-sm text-center text-gray-500 mt-0" style="margin-top:1rem;">
+  Copyright 2012-2020 LiteTrail. All Rights Reserved.
+</div>
+</div>
+{{ end }}
