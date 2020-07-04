@@ -6,6 +6,7 @@ caption = "Stoke level way up on an icy morning. Ojai, CA. Photo: Nick Bobroff"
 feature = "img/jw-chief-peak-20121230.jpg"
 maxWidthContent = "max-w-6xl"
 
+# print version
 # type = "chromeless"
 # layout = "gear-list"
 +++
