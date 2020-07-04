@@ -2,6 +2,8 @@
 date = 2020-06-15T14:00:00Z
 lastmod = 2020-06-15T14:00:00Z
 title = "2020 Ultralight Backpacking Gear Recommendations"
+caption = "Navigating on the PCT near Idyllwild, CA."
+feature = "img/ultralight-backpacking-gear-recommendations.webp"
 maxWidthContent = "max-w-4xl"
 +++
 

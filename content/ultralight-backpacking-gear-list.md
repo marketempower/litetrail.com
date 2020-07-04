@@ -29,28 +29,28 @@ maxWidthContent = "max-w-6xl"
 
 {{% blocks/row %}}
 {{% blocks/column-left %}}
-{{% headless-resource "/gearlists/01-worn-carried-info" %}}
+{{% headless-resource "/gear-list/01-worn-carried-info" %}}
 {{% /blocks/column-left %}}
 {{% blocks/column-right %}}
 {{< figure src="img/gear-list/01-worn-carried.webp" caption="Happy ultralight hiker in Yosemite." >}}
 {{% /blocks/column-right %}}
 {{% /blocks/row %}}
 
-{{< headless-resource "/gearlists/01-worn-carried-data" >}}
-{{% headless-resource "/gearlists/02-basepack-backpack-info" %}}
-{{< headless-resource "/gearlists/02-basepack-backpack-data" >}}
-{{% headless-resource "/gearlists/03-basepack-shelter-info" %}}
-{{< headless-resource "/gearlists/03-basepack-shelter-data" >}}
-{{% headless-resource "/gearlists/04-basepack-sleeping-info" %}}
-{{< headless-resource "/gearlists/04-basepack-sleeping-data" >}}
-{{% headless-resource "/gearlists/05-basepack-clothing-info" %}}
-{{< headless-resource "/gearlists/05-basepack-clothing-data" >}}
-{{% headless-resource "/gearlists/06-basepack-gear-info" %}}
-{{< headless-resource "/gearlists/06-basepack-gear-data" >}}
-{{% headless-resource "/gearlists/07-consumables-info" %}}
-{{< headless-resource "/gearlists/07-consumables-data" >}}
-{{% headless-resource "/gearlists/08-totals-info" %}}
-{{< headless-resource "/gearlists/08-totals-data" >}}
+{{< headless-resource "/gear-list/01-worn-carried-data" >}}
+{{% headless-resource "/gear-list/02-basepack-backpack-info" %}}
+{{< headless-resource "/gear-list/02-basepack-backpack-data" >}}
+{{% headless-resource "/gear-list/03-basepack-shelter-info" %}}
+{{< headless-resource "/gear-list/03-basepack-shelter-data" >}}
+{{% headless-resource "/gear-list/04-basepack-sleeping-info" %}}
+{{< headless-resource "/gear-list/04-basepack-sleeping-data" >}}
+{{% headless-resource "/gear-list/05-basepack-clothing-info" %}}
+{{< headless-resource "/gear-list/05-basepack-clothing-data" >}}
+{{% headless-resource "/gear-list/06-basepack-gear-info" %}}
+{{< headless-resource "/gear-list/06-basepack-gear-data" >}}
+{{% headless-resource "/gear-list/07-consumables-info" %}}
+{{< headless-resource "/gear-list/07-consumables-data" >}}
+{{% headless-resource "/gear-list/08-totals-info" %}}
+{{< headless-resource "/gear-list/08-totals-data" >}}
 
 * * *
 
