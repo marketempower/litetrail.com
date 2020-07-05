@@ -56,9 +56,9 @@ In order to achieve an lightweight base weight, you must continue to practice th
 
 ### Traditional Backpacking
 
-Hikers with a Backpacking Base Weight greater than fifteen pounds (6.80 kg) are known as Traditional Backpackers.
+Hikers with a Backpacking Base Weight **greater** than the Lightweight style are known as Traditional Backpackers.
 
-Traditional backpacking clothing and gear are typically available off-the-shelf at major outdoor retailers, and are the most budget friendly, yet heaviest options.
+Traditional backpacking clothing and gear are typically available off-the-shelf at major outdoor retailers and are the most budget friendly, while also the heaviest options.
 
 ### Choosing a Backpacking Style
 
