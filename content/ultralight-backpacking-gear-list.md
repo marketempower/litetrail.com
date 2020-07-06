@@ -18,7 +18,7 @@ maxWidthContent = "max-w-6xl"
 {{< /blocks/section >}}
 
 {{< blocks/justify >}}
-{{< button text="Download Printable PDF" type="base" icon="download" href="pdf/2020-ultralight-backpacking-gear-list-9-lb.pdf" >}}
+<a class="inline-flex items-center rounded font-content-sans font-semibold text-raven-900 bg-white hover:bg-raven-100 py-2 px-4 border border-raven-900" href="/pdf/2020-ultralight-backpacking-gear-list-9-lb.pdf" role="button"><svg class="fill-current h-4 w-auto mr-2" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M23.9 14.586c-.162-.357-.518-.587-.9-.586h-4V1a1 1 0 00-1-1h-4a1 1 0 00-1 1v13H9a1 1 0 00-.91.586c-.164.358-.1.776.158 1.072l7 8c.2.218.464.342.752.342s.562-.126.752-.342l7-8c.26-.294.32-.714.158-1.072zM27 22v6H5v-6H1v8a2 2 0 002 2h26a2 2 0 002-2v-8h-4z"></path></svg><span>Download Printable PDF</span></a>
 {{< /blocks/justify >}}
 
 {{< blocks/section width="max-w-680" >}}
@@ -75,5 +75,5 @@ Think of this list as a template, and as long as you plug in items with similar 
 
 ### Archived Gear Lists
 
-Previous Versions: [v201906]({{< cdn-url "pdf/2019-ultralight-backpacking-gear-list-10-lb.pdf" >}})
+Previous Versions: [v201906](/pdf/2019-ultralight-backpacking-gear-list-10-lb.pdf)
 {{% /blocks/section %}}
