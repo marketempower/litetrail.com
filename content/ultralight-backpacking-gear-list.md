@@ -14,7 +14,7 @@ maxWidthContent = "max-w-6xl"
 {{< blocks/section width="max-w-680" mdown=off >}}
 <time class="text-raven-700" datetime="2020-07-06T11:00:00Z">Updated July 5, 2020.</time>
 <br>
-<span class="lead">Over a decade of refinement, obsession, and testing has gone into the configuration of this ultralight backpacking gear list. A sub 10-pound base pack weight (ultralight), 3-season capable, durable, efficient, full-featured, and smile enhancing gear list. Usable in temps down to 20&#8457;, with generous safety, survival, and first aid essentials.</span>
+<span class="lead">Over a decade of refinement, obsession, and testing has gone into the configuration of this ultralight backpacking gear list. A sub 10-pound base pack weight, 3-season capable, durable, efficient, full-featured, and smile enhancing gear list. Usable in temperatures down to 20&#8457;, with generous safety, survival, and first aid essentials.</span>
 {{< /blocks/section >}}
 
 {{< blocks/justify >}}
@@ -22,7 +22,7 @@ maxWidthContent = "max-w-6xl"
 {{< /blocks/justify >}}
 
 {{< blocks/section width="max-w-680" >}}
-> The gear list sections below contain the author's* personal selections currently used for the 2020 season. *Male, 5 ft 9 in, 160 lbs/ 175 cm, 72.5 kg.
+> The following UL backpacking gear list contains the author's* personal selections currently used for the 2020 season. *Male, 5 ft 9 in, 160 lbs/ 175 cm, 72.5 kg.
 {{< /blocks/section >}}
 
 * * *
