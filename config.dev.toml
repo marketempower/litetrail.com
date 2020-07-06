@@ -13,7 +13,7 @@ facebookPixel = ""
 disqusShortname = ""
 
 [params.cdn]
-provider = "local"
+provider = "cloudinary"
 [params.cloudinary]
-host = "https://res.cloudinary.com/CLOUD_NAME/"
+host = "https://res.cloudinary.com/litetrail/"
 version = ""

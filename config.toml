@@ -50,16 +50,16 @@ disqusShortname = ""
 
 [params.logo]
 inline = true
-path = "img/brand/logo.svg"
+path = "logo.svg"
 
 [params.image]
 width = "2048"
 height = "1024"
 faviconIco = "favicon.ico"
-faviconAlt = "img/brand/favicon.png"
-icon1To1 = "img/brand/icon-1-1.png"
-icon2To1 = "img/brand/icon-2-1.png"
-default = "img/page-default.webp"
+faviconAlt = "brand/favicon.png"
+icon1To1 = "brand/icon-1-1.png"
+icon2To1 = "brand/icon-2-1.png"
+default = "page-default.webp"
 
 [params.font]
 type = ""
@@ -67,11 +67,11 @@ path = ""
 files = []
 
 [params.cdn]
-provider = "local"
+provider = "cloudinary"
 type = "image"
 
 [params.cloudinary]
-host = "https://res.cloudinary.com/CLOUD_NAME/"
+host = "https://res.cloudinary.com/litetrail/"
 version = ""
 image = "image/upload/"
 raw = "raw/upload/"

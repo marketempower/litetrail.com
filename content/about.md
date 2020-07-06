@@ -1,7 +1,7 @@
 +++
 title = "About"
 caption = "JW Great Western Divide, SEKI Sierras. Photo: Nick Bobroff"
-feature = "img/jw-sierras-20130628.jpg"
+feature = "about.jpg"
 +++
 
 LiteTrail is an ultralight backpacking and hiking project I've been hacking on since 2012. The intent is mainly content driven, though at one point I designed and manufactured gear, some of which is sold today at stores like REI under various brands. I've been into the ultralight style of hiking since 2005 when I heard about making a wood burning stove from a can of beans. What a change from the early days when we mail ordered from Campmor's news print illustrated catalogs! It's been a journey and a welcome escape from the high stress tech world my professional life creates.

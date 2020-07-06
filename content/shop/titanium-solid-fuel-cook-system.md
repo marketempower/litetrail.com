@@ -1,14 +1,15 @@
 +++
 title = "Titanium Solid Fuel Cook System"
 caption = "Titanium Solid Fuel Cook System."
-feature = "img/titanium-solid-fuel-cook-system.jpg"
+feature = "shop/titanium-solid-fuel-cook-system.jpg"
+type = "page"
 +++
+
+<p>The Titanium Solid Fuel Cook System contains everything you need for a complete <em>~3 oz</em> ultralight cook kit with a 550 mL capacity. Designed as one unit, to work together as a whole, our cook system includes a super ultralight (SUL) cookpot with or without handles and lid, solid fuel stove / stand, wind screen, ground protection and a <em>premium</em> Cuben Fiber storage stuff sack.</p>
 
 <div class="flex items-center justify-center font-content-sans rounded bg-orange-100 px-4 py-4" role="alert">
   <p class="text-orange-700"><strong>Notice</strong>: Product no longer available for sale. This page is provided for archival purposes. <a class="link" rel="nofollow" href="https://www.amazon.com/dp/B00CGTWYIY/?tag=ltrl-20">Amazon</a> and <a class="link" rel="nofollow" href="https://www.avantlink.com/click.php?tt=pl&ti=115&pw=149605&mi=10248&pt=3&pri=640051">REI</a> offer a similar product.
 </div>
-
-<p>The Titanium Solid Fuel Cook System contains everything you need for a complete <em>~3 oz</em> ultralight cook kit with a 550 mL capacity. Designed as one unit, to work together as a whole, our cook system includes a super ultralight (SUL) cookpot with or without handles and lid, solid fuel stove / stand, wind screen, ground protection and a <em>premium</em> Cuben Fiber storage stuff sack.</p>
 
 <h3>What's New / Improved for v3</h3>
 

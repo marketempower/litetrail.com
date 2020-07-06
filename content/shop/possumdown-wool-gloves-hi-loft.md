@@ -1,16 +1,15 @@
 +++
 title = "Possumdown Wool Gloves Hi-loft"
 caption = "Possumdown Wool Gloves Hi-loft."
-feature = "img/possumdown-wool-gloves-hi-loft.jpg"
+feature = "shop/possumdown-wool-gloves-hi-loft.jpg"
+type = "page"
 +++
+
+<p>PossumDown gloves are extra fine merino wool hi-loft liners. Our favorite ultralight backpacking and hiking glove with the highest loft to weight ratio of any knitted liner. The quest for the lightest and warmest <b>3-season glove </b>ends with the PossumDown hi-loft liners that are made in New Zealand from the highest quality merino wool.</p>
 
 <div class="flex items-center justify-center font-content-sans rounded bg-orange-100 px-4 py-4" role="alert">
   <p class="text-orange-700"><strong>Notice</strong>: Product no longer available for sale. This page is provided for archival purposes. <a class="link" rel="nofollow" href="https://www.amazon.com/dp/B01D2JEG3C/?tag=ltrl-20">Amazon</a> offers a similar product.</p>
 </div>
-
-<p>PossumDown gloves are extra fine merino wool hi-loft liners. Our favorite ultralight backpacking and hiking glove with the highest loft to weight ratio of any knitted liner.</p>
-
-<p>The quest for the lightest and warmest <b>3-season glove </b>ends with the PossumDown hi-loft liners that are made in New Zealand from the highest quality merino wool.</p>
 
 <p><strong>NOTICE:</strong> These gloves are fragile and may not last as long as others. Extra care should be taken in their use.</p>
 

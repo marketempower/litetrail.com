@@ -3,11 +3,11 @@ name = "LiteTrail"
 uri = "https://www.litetrail.com/"
 email = "info@litetrail.com"
 twitter = "litetrail"
-image = "img/author/default.webp"
+image = "author/default.webp"
 
 [jhaurawachsman]
 name = "Jhaura Wachsman"
 uri = "https://www.litetrail.com/"
 email = "info@litetrail.com"
 twitter = "litetrail"
-image = "img/author/jhaurawachsman.webp"
+image = "author/jhaurawachsman.webp"

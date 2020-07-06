@@ -3,7 +3,7 @@ date = 2020-06-15T14:00:00Z
 lastmod = 2020-06-15T14:00:00Z
 title = "2020 Ultralight Backpacking Gear Recommendations"
 caption = "Navigating on the PCT near Idyllwild, CA."
-feature = "img/ultralight-backpacking-gear-recommendations.webp"
+feature = "ultralight-backpacking-gear-recommendations.webp"
 maxWidthContent = "max-w-4xl"
 +++
 
@@ -13,7 +13,7 @@ maxWidthContent = "max-w-4xl"
 
 <div class="flex flex-wrap justify-between">
   <div class="card">
-    <img src="/img/nitecore-nu25-rechargeable-headlamp.jpg" alt="Nitecore NU25 USB Rechargeable Headlamp">
+    <img src="{{< cdn-url "gear-recommendations/nitecore-nu25-rechargeable-headlamp.jpg" >}}" alt="Nitecore NU25 USB Rechargeable Headlamp">
     <div class="px-6 py-4">
       <div class="text-xl mb-2">
         <a class="link stretched-link" rel="nofollow" href="https://www.amazon.com/dp/B0785TM5SX/?tag=ltrl-20">Nitecore NU25 USB Rechargeable Headlamp</a>
@@ -23,7 +23,7 @@ maxWidthContent = "max-w-4xl"
   </div>
 
   <div class="card">
-    <img src="/img/light-my-fire-scout-firesteel.jpg" alt="Light My Fire Scout Firesteel">
+    <img src="{{< cdn-url "gear-recommendations/light-my-fire-scout-firesteel.jpg" >}}" alt="Light My Fire Scout Firesteel">
     <div class="px-6 py-4">
       <div class="text-xl mb-2">
         <a class="link stretched-link" rel="nofollow" href="https://www.amazon.com/dp/B00440VJMU/?tag=ltrl-20">Light My Fire Scout Firesteel</a>
@@ -33,7 +33,7 @@ maxWidthContent = "max-w-4xl"
   </div>
 
   <div class="card">
-    <img src="/img/sawyer-insect-repellent-picaridin.jpg" alt="Sawyer Insect Repellent 20% Picaridin">
+    <img src="{{< cdn-url "gear-recommendations/sawyer-insect-repellent-picaridin.jpg" >}}" alt="Sawyer Insect Repellent 20% Picaridin">
     <div class="px-6 py-4">
       <div class="text-xl mb-2">
         <a class="link stretched-link" rel="nofollow" href="https://www.amazon.com/dp/B002CMOM3U/?tag=ltrl-20">Sawyer Insect Repellent 20% Picaridin</a>
@@ -43,7 +43,7 @@ maxWidthContent = "max-w-4xl"
   </div>
 
   <div class="card">
-    <img src="/img/victorinox-swiss-army-pocket-knife.jpg" alt="Victorinox Swiss Army Pocket Knife">
+    <img src="{{< cdn-url "gear-recommendations/victorinox-swiss-army-pocket-knife.jpg" >}}" alt="Victorinox Swiss Army Pocket Knife">
     <div class="px-6 py-4">
       <div class="text-xl mb-2">
         <a class="link stretched-link" rel="nofollow" href="https://www.amazon.com/dp/B0014YK236/?tag=ltrl-20">Victorinox Swiss Army Pocket Knife</a>
@@ -53,7 +53,7 @@ maxWidthContent = "max-w-4xl"
   </div>
 
   <div class="card">
-    <img src="/img/tinder-quik-firestarting-tabs.jpg" alt="Tinder-Quik Firestarting Tabs">
+    <img src="{{< cdn-url "gear-recommendations/tinder-quik-firestarting-tabs.jpg" >}}" alt="Tinder-Quik Firestarting Tabs">
     <div class="px-6 py-4">
       <div class="text-xl mb-2">
         <a class="link stretched-link" rel="nofollow" href="https://www.amazon.com/dp/B00US31V20/?tag=ltrl-20">Tinder-Quik Firestarting Tabs</a>
@@ -63,7 +63,7 @@ maxWidthContent = "max-w-4xl"
   </div>
 
   <div class="card">
-    <img src="/img/handclens-non-alcohol-hand-sanitizer.jpg" alt="HandClens Non-Alcohol Hand Sanitizer">
+    <img src="{{< cdn-url "gear-recommendations/handclens-non-alcohol-hand-sanitizer.jpg" >}}" alt="HandClens Non-Alcohol Hand Sanitizer">
     <div class="px-6 py-4">
       <div class="text-xl mb-2">
         <a class="link stretched-link" rel="nofollow" href="https://www.amazon.com/dp/B002MDHMMW/?tag=ltrl-20">HandClens Non-Alcohol Hand Sanitizer</a>
@@ -73,7 +73,7 @@ maxWidthContent = "max-w-4xl"
   </div>
 
   <div class="card">
-    <img src="/img/camouflage-gaffer-tape.jpg" alt="Camouflage Gaffer Tape">
+    <img src="{{< cdn-url "gear-recommendations/camouflage-gaffer-tape.jpg" >}}" alt="Camouflage Gaffer Tape">
     <div class="px-6 py-4">
       <div class="text-xl mb-2">
         <a class="link stretched-link" rel="nofollow" href="https://www.amazon.com/dp/B06ZZ6LL74/?tag=ltrl-20">Camouflage Gaffer Tape</a>
@@ -83,7 +83,7 @@ maxWidthContent = "max-w-4xl"
   </div>
 
   <div class="card">
-    <img src="/img/aquamira-water-purification-tablets.jpg" alt="Aquamira Water Purification Tablets">
+    <img src="{{< cdn-url "gear-recommendations/aquamira-water-purification-tablets.jpg" >}}" alt="Aquamira Water Purification Tablets">
     <div class="px-6 py-4">
       <div class="text-xl mb-2">
         <a class="link stretched-link" rel="nofollow" href="https://www.amazon.com/dp/B0016A8ODI/?tag=ltrl-20">Aquamira Water Purification Tablets</a>
@@ -93,7 +93,7 @@ maxWidthContent = "max-w-4xl"
   </div>
 
   <div class="card">
-    <img src="/img/gear-aid-tenacious-tape-patches.jpg" alt="Gear Aid Tenacious Tape Patches">
+    <img src="{{< cdn-url "gear-recommendations/gear-aid-tenacious-tape-patches.jpg" >}}" alt="Gear Aid Tenacious Tape Patches">
     <div class="px-6 py-4">
       <div class="text-xl mb-2">
         <a class="link stretched-link" rel="nofollow" href="https://www.amazon.com/dp/B00UTK466U/?tag=ltrl-20">Gear Aid Tenacious Tape Patches</a>

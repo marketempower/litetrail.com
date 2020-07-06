@@ -3,10 +3,10 @@ date = 2020-06-15T14:00:00Z
 lastmod = 2020-07-01T03:00:00Z
 title = "2020 Ultralight Backpacking Gear List 9 lb"
 caption = "Stoke level way up on an icy morning. Ojai, CA. Photo: Nick Bobroff"
-feature = "img/ultralight-thru-hike-gear-list.webp"
+feature = "ultralight-backpacking-gear-list.webp"
 maxWidthContent = "max-w-6xl"
 
-# print version
+# LOCAL-DEV ONLY! UNCOMMENT TO PRINT PDF VERSION
 # type = "chromeless"
 # layout = "gear-list"
 +++
@@ -32,7 +32,7 @@ maxWidthContent = "max-w-6xl"
 {{% headless-resource "/gear-list/01-worn-carried-info" %}}
 {{% /blocks/column-left %}}
 {{% blocks/column-right %}}
-{{< figure src="img/gear-list/01-worn-carried.webp" caption="Happy ultralight hiker in Yosemite." >}}
+{{< figure src="gear-list/01-worn-carried.webp" caption="Happy ultralight hiker in Yosemite." >}}
 {{% /blocks/column-right %}}
 {{% /blocks/row %}}
 

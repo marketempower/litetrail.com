@@ -1,16 +1,15 @@
 +++
 title = "G-Line Polyester Dyneema Guyline Cord"
 caption = "G-Line Polyester Dyneema Guyline Cord."
-feature = "img/gline-polyester-dyneema-guyline-cord.jpg"
+feature = "shop/gline-polyester-dyneema-guyline-cord.jpg"
+type = "page"
 +++
+
+<p>The ultimate super ultralight shelter guyline for the gram counting hiker. The thinest polyester-dyneema guyline available with an incredible 200 lbs breaking strength. A premium guyline made from a 100% SK75 Heat Set Dyneema core with a tightly wound polyester cover for high abrasion residence and a stiff hand. Heat treated to create almost no stretch.</p>
 
 <div class="flex items-center justify-center font-content-sans rounded bg-orange-100 px-4 py-4" role="alert">
   <p class="text-orange-700"><strong>Notice</strong>: Product no longer available for sale. This page is provided for archival purposes. <a class="link" href="https://zpacks.com/products/50-feet-1-2-mm-z-line-cord">Zpacks</a> offers a similar product.</p>
 </div>
-
-<p>The ultimate super ultralight shelter guyline for the gram counting hiker. The thinest polyester-dyneema guyline available with an incredible 200 lbs breaking strength.</p>
-
-<p>A premium guyline made from a 100% SK75 Heat Set Dyneema core with a tightly wound polyester cover for high abrasion residence and a stiff hand. Heat treated to create almost no stretch.</p>
 
 <p><strong>Note on Knots</strong>: With new line, make sure to snug up any hitches or loops to prevent slippage; with the <strong>Tautline Hitch</strong>, add a third wrap for slip-free holding power. Once your line is broken in, this won't be needed.</p>
 

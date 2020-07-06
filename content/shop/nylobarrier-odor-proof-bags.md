@@ -1,16 +1,17 @@
 +++
 title = "NyloBarrier Odor Proof Bags"
 caption = "NyloBarrier Odor Proof Bags."
-feature = "img/nylobarrier-odor-proof-bags.jpg"
+feature = "shop/nylobarrier-odor-proof-bags.jpg"
+type = "page"
 +++
-
-<div class="flex items-center justify-center font-content-sans rounded bg-orange-100 px-4 py-4" role="alert">
-  <p class="text-orange-700"><strong>Notice</strong>: Product no longer available for sale. This page is provided for archival purposes. <a class="link" rel="nofollow" href="https://www.amazon.com/dp/B07BF2MQRB/?tag=ltrl-20">Amazon</a> and <a class="link" rel="nofollow" href="https://zpacks.com/products/nylopro-odor-barrier-bags?aff=37">Zpacks</a> offer a similar product.
-</div>
 
 <h3>NyloBarrier Odor Proof Bags</h3>
 
 <p>NyloBarrier multiuse bags are perfect as an odor proof solution for food storage, as a laundry bag, and as a pack liner for day and multiday backpacks. Three products in one!</p>
+
+<div class="flex items-center justify-center font-content-sans rounded bg-orange-100 px-4 py-4" role="alert">
+  <p class="text-orange-700"><strong>Notice</strong>: Product no longer available for sale. This page is provided for archival purposes. <a class="link" rel="nofollow" href="https://www.amazon.com/dp/B07BF2MQRB/?tag=ltrl-20">Amazon</a> and <a class="link" rel="nofollow" href="https://zpacks.com/products/nylopro-odor-barrier-bags?aff=37">Zpacks</a> offer a similar product.
+</div>
 
 <p><strong>Usage Tip</strong>: NyloBarrier Multiuse bags are meant to be used as a liner inside a more durable stuff sack or canister, such as those made from cuben fiber or sil-nylon. Though the material is very durable, they are not designed to be used alone.</p>
 

@@ -1,7 +1,7 @@
 +++
 title = "Contact"
 caption = "Mountain Laurel Designs Exodus backpack. Photo: Nick Bobroff"
-feature = "img/mld-backpack-20121122.jpg"
+feature = "contact.jpg"
 +++
 
 To get in touch, send an email to the address below, or connect via social media.
