@@ -3,7 +3,7 @@ setlocale(LC_MONETARY, 'en_US');
 
 include './data-2020.php';
 
-$outputPath = '../../../content/gearlists/';
+$outputPath = '../../../content/gear-list/';
 
 function getMoneyFormat()
 {

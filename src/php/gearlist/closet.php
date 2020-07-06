@@ -12,6 +12,10 @@
 '<a rel="nofollow" href="https://mountainlaureldesigns.com/product/mld-superlight-solo-bivy">Mountain Laurel Designs Superlight Solo Bivy</a>, S19 DCF8 Bottom',
 245.00,
 4.75],
+['Guylines',
+'3x9\', 4x6\' <a rel="nofollow" href="http://www.avantlink.com/click.php?tt=pl&ti=3629&pw=149605&mi=13757&pt=3&pri=967">2mm</a> (reflective), 2x8\' 4x3\' <a rel="nofollow" href="https://zpacks.com/products/50-feet-1-2-mm-z-line-cord?aff=37">1mm</a> braided polyester dyneema core',
+25.00,
+2.40],
 
 ['Sleeping Bag',
 '<a rel="nofollow" href="https://enlightenedequipment.com/enigma-custom/">Enlightened Equipment Enigma Quilt 20&#8457;</a>, S19 Size RR 7D shell 15D liner 13.83oz 950 down fill',
