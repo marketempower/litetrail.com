@@ -7,15 +7,15 @@ type = "page"
 
 <h3>NyloBarrier Odor Proof Bags</h3>
 
-<p>NyloBarrier multiuse bags are perfect as an odor proof solution for food storage, as a laundry bag, and as a pack liner for day and multiday backpacks. Three products in one!</p>
+<p>NyloBarrier multiuse bags are perfect as an odor proof solution for food storage, as a laundry bag, and as a pack liner for day and multi-day backpacks. Three products in one!</p>
 
 <div class="flex items-center justify-center font-content-sans rounded bg-orange-100 px-4 py-4" role="alert">
   <p class="text-orange-700"><strong>Notice</strong>: Product no longer available for sale. This page is provided for archival purposes. <a class="link" rel="nofollow" href="https://www.amazon.com/dp/B07BF2MQRB/?tag=ltrl-20">Amazon</a> and <a class="link" rel="nofollow" href="https://zpacks.com/products/nylopro-odor-barrier-bags?aff=37">Zpacks</a> offer a similar product.
 </div>
 
-<p><strong>Usage Tip</strong>: NyloBarrier Multiuse bags are meant to be used as a liner inside a more durable stuff sack or canister, such as those made from cuben fiber or sil-nylon. Though the material is very durable, they are not designed to be used alone.</p>
+<p><strong>Usage Tip</strong>: NyloBarrier Multiuse bags are meant to be used as a liner inside a more durable stuff sack or canister, such as those made from DCF or silnylon. Though the material is very durable, they are not designed to be used alone.</p>
 
-<p><strong>Note</strong>: Water resistant, not water proof. In high humidity or when exposed to direct contact with water over extended periods of time (~8 hours), this film could transmit a hint of moisture. This can be a good thing, because unlike a fully water proof material, NyloBarrier bags "breath" in terms of water vapor (not scent) and allow the contents to dry out on their own.</p>
+<p><strong>Note</strong>: Water resistant, not waterproof. In high humidity or when exposed to direct contact with water over extended periods of time (~8 hours), this film could transmit a hint of moisture. This can be a good thing, because unlike a fully water proof material, NyloBarrier bags "breath" in terms of water vapor (not scent) and allow the contents to dry out on their own.</p>
 
 <h3>Common Uses</h3>
 

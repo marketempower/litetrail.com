@@ -15,7 +15,7 @@ Typically hikers segment backpacking base weight into four main categories organ
 
 Shared among the "lightweight" backpacking variations below are a core set of skills, practices, and mindset (the philosophy of "lightweight"):
 
-- Choosing clothing and gear which is lightweight and "multi-use"
+- Choosing clothing and gear which is lightweight and "multiuse"
 - An emphasis on hiking vs. camping both in time and importance
 - Carrying more between your ears in the form of knowledge, experience, and wisdom
 
