@@ -13,7 +13,7 @@ type = "page"
   <p class="text-orange-700"><strong>Notice</strong>: Product no longer available for sale. This page is provided for archival purposes. <a class="link" rel="nofollow" href="https://www.amazon.com/dp/B07BF2MQRB/?tag=ltrl-20">Amazon</a> and <a class="link" rel="nofollow" href="https://zpacks.com/products/nylopro-odor-barrier-bags?aff=37">Zpacks</a> offer a similar product.
 </div>
 
-<p><strong>Usage Tip</strong>: NyloBarrier Multiuse bags are meant to be used as a liner inside a more durable stuff sack or canister, such as those made from DCF or silnylon. Though the material is very durable, they are not designed to be used alone.</p>
+<p><strong>Usage Tip</strong>: NyloBarrier multiuse bags are meant to be used as a liner inside a more durable stuff sack or canister, such as those made from DCF or silnylon. Though the material is very durable, they are not designed to be used alone.</p>
 
 <p><strong>Note</strong>: Water resistant, not waterproof. In high humidity or when exposed to direct contact with water over extended periods of time (~8 hours), this film could transmit a hint of moisture. This can be a good thing, because unlike a fully water proof material, NyloBarrier bags "breath" in terms of water vapor (not scent) and allow the contents to dry out on their own.</p>
 
