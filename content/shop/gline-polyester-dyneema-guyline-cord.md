@@ -5,7 +5,7 @@ feature = "shop/gline-polyester-dyneema-guyline-cord.jpg"
 type = "page"
 +++
 
-<p>The ultimate super ultralight shelter guyline for the gram counting hiker. The thinest polyester-dyneema guyline available with an incredible 200 lbs breaking strength. A premium guyline made from a 100% SK75 Heat Set Dyneema core with a tightly wound polyester cover for high abrasion residence and a stiff hand. Heat treated to create almost no stretch.</p>
+<p>The ultimate super ultralight shelter guyline for the gram counting hiker. The thinnest polyester-dyneema guyline available with an incredible 200 lbs breaking strength. A premium guyline made from a 100% SK75 Heat Set Dyneema core with a tightly wound polyester cover for high abrasion residence and a stiff hand. Heat treated to create almost no stretch.</p>
 
 <div class="flex items-center justify-center font-content-sans rounded bg-orange-100 px-4 py-4" role="alert">
   <p class="text-orange-700"><strong>Notice</strong>: Product no longer available for sale. This page is provided for archival purposes. <a class="link" href="https://zpacks.com/products/50-feet-1-2-mm-z-line-cord">Zpacks</a> offers a similar product.</p>
@@ -20,7 +20,7 @@ type = "page"
   <li><strong>Stealth Color</strong>: Blends in natural environment</li>
   <li><strong>Ultra Stiff Hand</strong>: Helps prevent tangling and makes it easier to undo knots</li>
   <li><strong>Optimized</strong>: A little less than 1 mm in diameter makes for the perfect balance between line control and strength/weight</li>
-  <li><strong>Ultralight</strong>: The lightest polyester covered SK75 Dymeena (a.k.a. Spectra) ultralight backpacking guyline available</li>
+  <li><strong>Ultralight</strong>: The lightest polyester covered SK75 Dyneema (a.k.a. Spectra) ultralight backpacking guyline available</li>
 </ul>
 
 <h3>Specifications</h3>
