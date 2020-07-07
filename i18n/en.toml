@@ -1,2 +1,8 @@
+[shop]
+other = "Shop"
+
+[wiki]
+other = "Wiki"
+
 [copyright]
 other = "{{ .Site.Title }}"
