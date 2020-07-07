@@ -32,7 +32,7 @@ maxWidthContent = "max-w-6xl"
 {{% page-resource "01-worn-carried-info" %}}
 {{% /blocks/column-left %}}
 {{% blocks/column-right %}}
-{{< figure src="gear-list/01-worn-carried.webp" caption="The author's typical worn/carried setup." >}}
+{{< figure src="gear-list/01-worn-carried.webp" caption="The author's typical Worn/Carried setup. Temple Crag, Sierra Nevada." >}}
 {{% /blocks/column-right %}}
 {{% /blocks/row %}}
 
