@@ -29,28 +29,28 @@ maxWidthContent = "max-w-6xl"
 
 {{% blocks/row %}}
 {{% blocks/column-left %}}
-{{% headless-resource "/gear-list/01-worn-carried-info" %}}
+{{% page-resource "01-worn-carried-info" %}}
 {{% /blocks/column-left %}}
 {{% blocks/column-right %}}
-{{< figure src="gear-list/01-worn-carried.webp" caption="Happy ultralight hiker in Yosemite." >}}
+{{< figure src="gear-list/01-worn-carried.webp" caption="The author's typical worn/carried setup." >}}
 {{% /blocks/column-right %}}
 {{% /blocks/row %}}
 
-{{< headless-resource "/gear-list/01-worn-carried-data" >}}
-{{% headless-resource "/gear-list/02-basepack-backpack-info" %}}
-{{< headless-resource "/gear-list/02-basepack-backpack-data" >}}
-{{% headless-resource "/gear-list/03-basepack-shelter-info" %}}
-{{< headless-resource "/gear-list/03-basepack-shelter-data" >}}
-{{% headless-resource "/gear-list/04-basepack-sleeping-info" %}}
-{{< headless-resource "/gear-list/04-basepack-sleeping-data" >}}
-{{% headless-resource "/gear-list/05-basepack-clothing-info" %}}
-{{< headless-resource "/gear-list/05-basepack-clothing-data" >}}
-{{% headless-resource "/gear-list/06-basepack-gear-info" %}}
-{{< headless-resource "/gear-list/06-basepack-gear-data" >}}
-{{% headless-resource "/gear-list/07-consumables-info" %}}
-{{< headless-resource "/gear-list/07-consumables-data" >}}
-{{% headless-resource "/gear-list/08-totals-info" %}}
-{{< headless-resource "/gear-list/08-totals-data" >}}
+{{< page-resource "01-worn-carried-data" >}}
+{{% page-resource "02-basepack-backpack-info" %}}
+{{< page-resource "02-basepack-backpack-data" >}}
+{{% page-resource "03-basepack-shelter-info" %}}
+{{< page-resource "03-basepack-shelter-data" >}}
+{{% page-resource "04-basepack-sleeping-info" %}}
+{{< page-resource "04-basepack-sleeping-data" >}}
+{{% page-resource "05-basepack-clothing-info" %}}
+{{< page-resource "05-basepack-clothing-data" >}}
+{{% page-resource "06-basepack-gear-info" %}}
+{{< page-resource "06-basepack-gear-data" >}}
+{{% page-resource "07-consumables-info" %}}
+{{< page-resource "07-consumables-data" >}}
+{{% page-resource "08-totals-info" %}}
+{{< page-resource "08-totals-data" >}}
 
 * * *
 
