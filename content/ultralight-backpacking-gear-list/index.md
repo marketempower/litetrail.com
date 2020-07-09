@@ -13,8 +13,8 @@ maxWidthContent = "max-w-6xl"
 
 {{< blocks/section width="max-w-680" mdown=off >}}
 <time class="text-raven-700" datetime="2020-07-06T11:00:00Z">Updated July 5, 2020.</time>
-<br>
-<span class="lead">Over a decade of refinement, obsession, and testing has gone into the creation of this ultralight backpacking gear list. A sub 10-pound backpacking base weight, 3-season capable, durable, efficient, full-featured, and smile enhancing UL gear list. Comfortable in temperatures down to 20&#8457;, with generous safety, survival, and first aid essentials.</span>
+
+<p class="lead mt-0">Over a decade of refinement, obsession, and testing has gone into the creation of this ultralight backpacking gear list. A sub 10-pound backpacking base weight, 3-season capable, durable, efficient, full-featured, and smile enhancing UL gear list. Comfortable in temperatures down to 20&#8457;, with generous safety, survival, and first aid essentials.</p>
 {{< /blocks/section >}}
 
 {{< blocks/justify >}}
