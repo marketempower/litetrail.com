@@ -1,16 +1,17 @@
-.card {
-  @apply relative overflow-hidden shadow mt-6;
+.max-w-32 {
+  max-width: 8rem;
 }
 
-.a-button-shop {
-    background: #ed9220;
-    border-color: #ca7c1b #be751a #a56616;
-    box-shadow: 0 1px 0 rgba(255, 255, 255, .6) inset;
-    background: linear-gradient(to bottom, #f6c88f, #ed9220);
+.max-w-36 {
+  max-width: 9rem;
+}
 
-    &:hover {
-      background: linear-gradient(to bottom, #f6c88f, #e38512);
-    }
+.max-w-64 {
+  max-width: 16rem;
+}
+
+.card {
+  @apply relative overflow-hidden shadow mt-6;
 }
 
 .cdata > table.table-gearlist {

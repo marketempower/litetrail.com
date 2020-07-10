@@ -7,36 +7,10 @@ type = "page"
 
 <p>NyloPro multiuse bags are perfect as an smell proof solution for food storage, as a laundry bag, and as a pack liner for day and multiday backpacks. Three products in one!</p>
 
-<div class="purchase-options">
-  <div class="border-b border-gray-400">
-    <div class="relative inline-block border-l border-t border-r rounded-t border-gray-400 bg-white px-4 py-2 -mb-px">
-        <span class="leading-none font-sans font-semibold uppercase text-raven-600">Purchase Options</span>
-    </div>
-  </div>
-
-  <div class="border-b border-l border-r border-gray-400">
-    <div class="sm:flex px-4 py-6">
-      <div class="flex justify-center sm:w-1/2 sm:mr-5">
-        <img class="w-32 h-auto mr-2" src="{{< cdn-url "shop/zpacks-nylopro-odor-barrier-bags.webp" >}}" alt="Zpacks NyloPro Odor Barrier Bags">
-        <div class="ml-2">
-          <span class="text-sm">Zpacks</span>
-          <br>
-          <strong>NyloPro Odor Barrier Bags</strong>
-{{< a-button-shop href="https://zpacks.com/products/nylopro-odor-barrier-bags?aff=37" class="mt-4" >}}
-        </div>
-      </div>
-      <div class="flex justify-center mt-8 sm:w-1/2 sm:mt-0 sm:ml-5">
-        <img class="w-32 h-auto mr-2" src="{{< cdn-url "shop/bos-odor-sealing-bags.webp" >}}" alt="BOS Odor Sealing Bags.">
-        <div class="ml-2">
-          <span class="text-sm">Amazon</span>
-          <br>
-          <strong>BOS Odor Sealing Bags</strong>
-{{< a-button-shop href="https://www.amazon.com/dp/B07BF2MQRB/?tag=ltrl-20" class="mt-4" >}}
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
+{{< affiliate/purchase-options >}}
+{{< affiliate/purchase-option brand="Zpacks" title="NyloPro Odor Barrier Bags" index=1 count=2 image="shop/zpacks-nylopro-odor-barrier-bags.webp" href="https://zpacks.com/products/nylopro-odor-barrier-bags?aff=37" >}}
+{{< affiliate/purchase-option brand="Amazon" title="BOS Odor Sealing Bags" index=2 count=2 image="shop/bos-odor-sealing-bags.webp" href="https://www.amazon.com/dp/B07BF2MQRB/?tag=ltrl-20" >}}
+{{< /affiliate/purchase-options >}}
 
 > The following information is for archival purposes. Please refer to the *Purchase Options* above for current information.
 

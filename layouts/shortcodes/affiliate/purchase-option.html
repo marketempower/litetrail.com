@@ -1,0 +1,25 @@
+{{- $brand := .Get "brand" -}}
+{{- $title := .Get "title" -}}
+{{- $index := .Get "index" -}}
+{{- $count := .Get "count" | default 2 -}}
+{{- $image := partial "cdn-src" (dict "Site" $.Site "Page" . "src" (.Get "image")) -}}
+{{- $href := .Get "href" -}}
+{{- $class := "" -}}
+{{- if and (eq $index 1) (eq $count 2) }}
+{{- $class = "sm:w-1/2 sm:mr-5" -}}
+{{- else if and (eq $index 2) (eq $count 2) }}
+{{- $class = "mt-8 sm:w-1/2 sm:mt-0 sm:ml-5" -}}
+{{- end }}
+<div class="flex{{ with $class }} {{ . }}{{ end }}">
+  <div class="flex-1 max-w-36 mr-2">
+    <img src="{{ $image }}" alt="{{ $title }}">
+  </div>
+  <div class="flex-1 ml-2">
+    <span class="text-sm">{{ $brand }}</span>
+    <br>
+    <strong>{{ $title }}</strong>
+    <div class="max-w-64 mt-4">
+      {{- partial "affiliate/a-button-shop" (dict "Site" $.Site "Page" . "href" $href) }}
+    </div>
+  </div>
+</div>

@@ -1,0 +1,13 @@
+{{- $title := .Get 0 | default (T "purchaseOptions") -}}
+<div class="{{ anchorize $title }}">
+  <div class="border-b border-gray-400">
+    <div class="relative inline-block border-l border-t border-r rounded-t border-gray-400 bg-white px-4 py-2 -mb-px">
+        <span class="leading-none font-sans font-semibold uppercase text-raven-600">{{ $title }}</span>
+    </div>
+  </div>
+  <div class="border-b border-l border-r border-gray-400">
+    <div class="sm:flex sm:justify-center px-4 py-6">
+      {{ .Inner }}
+    </div>
+  </div>
+</div>

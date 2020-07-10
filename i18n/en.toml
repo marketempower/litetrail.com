@@ -4,5 +4,8 @@ other = "Shop"
 [wiki]
 other = "Wiki"
 
+[purchaseOptions]
+other = "Purchase Options"
+
 [copyright]
 other = "{{ .Site.Title }}"
