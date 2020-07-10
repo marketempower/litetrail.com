@@ -7,7 +7,7 @@ type = "page"
 
 <p>NyloPro multiuse bags are perfect as an smell proof solution for food storage, as a laundry bag, and as a pack liner for day and multiday backpacks. Three products in one!</p>
 
-<div class="font-sans font-semibold text-2xl sm:text-xl">Available for Purchase at:</div>
+<div class="font-sans font-semibold text-xl">Purchase Options</div>
 
 <div class="sm:flex">
     <div class="flex justify-center sm:w-1/2 sm:mr-5">
