@@ -11,7 +11,7 @@ type = "page"
   <div class="relative z-20 bg-white inline-block border-l border-t border-r rounded-t border-gray-400 leading-none font-sans font-semibold uppercase text-raven-600 -mb-px p-2">
       Purchase Options
   </div>
-  <div class="sm:flex border rounded-tr rounded-bl rounded-br border-gray-400 px-4 pt-6 pb-5 overflow-hidden">
+  <div class="relative z-10 sm:flex border rounded-tr rounded-bl rounded-br border-gray-400 px-4 py-6">
       <div class="flex justify-center sm:w-1/2 sm:mr-5">
         <img class="w-32 h-auto mr-2" src="{{< cdn-url "shop/zpacks-nylopro-odor-barrier-bags.webp" >}}" alt="Zpacks NyloPro Odor Barrier Bags">
         <div class="ml-2">
