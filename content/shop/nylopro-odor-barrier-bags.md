@@ -5,9 +5,9 @@ feature = "shop/nylopro-odor-barrier-bags.jpg"
 type = "page"
 +++
 
-<h3>NyloPro Odor Barrier Bags</h3>
-
 <p>NyloPro multiuse bags are perfect as an smell proof solution for food storage, as a laundry bag, and as a pack liner for day and multiday backpacks. Three products in one!</p>
+
+<div class="font-sans font-semibold text-2xl sm:text-xl">Available for Purchase at:</div>
 
 <div class="sm:flex">
     <div class="flex justify-center sm:w-1/2 sm:mr-5">
@@ -30,9 +30,9 @@ type = "page"
     </div>
 </div>
 
-<p><strong>Usage Tip</strong>: NyloPro multiuse bags are meant to be used as a liner inside a more durable stuff sack or canister, such as those made from DCF or silnylon. Though the material is very durable, they are not designed to be used alone.</p>
+* * *
 
-<p><strong>Note</strong>: Water resistant, not waterproof. In high humidity or when exposed to direct contact with water over extended periods of time (~8 hours), this film could transmit a hint of moisture. This can be a good thing, because unlike a fully water proof material, NyloPro bags "breath" in terms of water vapor (not scent) and allow the contents to dry out on their own.</p>
+> The following information is an archive from when we used to sell this item directly.
 
 <h3>Common Uses</h3>
 
@@ -57,6 +57,10 @@ type = "page"
   <li>Withstands temperatures up to 325* F (163* C)</li>
   <li>Made in USA!</li>
 </ul>
+
+<p><strong>Usage Tip</strong>: NyloPro multiuse bags are meant to be used as a liner inside a more durable stuff sack or canister, such as those made from DCF or silnylon. Though the material is very durable, they are not designed to be used alone.</p>
+
+<p><strong>Note</strong>: Water resistant, not waterproof. In high humidity or when exposed to direct contact with water over extended periods of time (~8 hours), this film could transmit a hint of moisture. This can be a good thing, because unlike a fully water proof material, NyloPro bags "breath" in terms of water vapor (not scent) and allow the contents to dry out on their own.</p>
 
 <h3>NYP0001 NyloPro Small 4x7</h3>
 
