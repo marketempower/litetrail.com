@@ -33,7 +33,7 @@ type = "page"
   </div>
 </div>
 
-> The following information is an archive from when we used to sell this item directly. Please refer to the *Purchase Options* above for current information.
+> The following information for archival purposes. Please refer to the *Purchase Options* above for current information.
 
 <h3>Common Uses</h3>
 
