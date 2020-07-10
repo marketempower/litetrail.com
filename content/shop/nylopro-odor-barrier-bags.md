@@ -8,10 +8,14 @@ type = "page"
 <p>NyloPro multiuse bags are perfect as an smell proof solution for food storage, as a laundry bag, and as a pack liner for day and multiday backpacks. Three products in one!</p>
 
 <div class="purchase-options">
-  <div class="relative z-20 bg-white inline-block border-l border-t border-r rounded-t border-gray-400 leading-none font-sans font-semibold uppercase text-raven-600 -mb-px p-2">
-      Purchase Options
+  <div class="border-b border-gray-400">
+    <div class="relative inline-block border-l border-t border-r rounded-t border-gray-400 bg-white px-4 py-2 -mb-px">
+        <span class="leading-none font-sans font-semibold uppercase text-raven-600">Purchase Options</span>
+    </div>
   </div>
-  <div class="relative z-10 sm:flex border rounded-tr rounded-bl rounded-br border-gray-400 px-4 py-6">
+
+  <div class="border-b border-l border-r border-gray-400">
+    <div class="sm:flex px-4 py-6">
       <div class="flex justify-center sm:w-1/2 sm:mr-5">
         <img class="w-32 h-auto mr-2" src="{{< cdn-url "shop/zpacks-nylopro-odor-barrier-bags.webp" >}}" alt="Zpacks NyloPro Odor Barrier Bags">
         <div class="ml-2">
@@ -30,10 +34,11 @@ type = "page"
 {{< a-button-shop href="https://www.amazon.com/dp/B07BF2MQRB/?tag=ltrl-20" class="mt-4" >}}
         </div>
       </div>
+    </div>
   </div>
 </div>
 
-> The following information for archival purposes. Please refer to the *Purchase Options* above for current information.
+> The following information is for archival purposes. Please refer to the *Purchase Options* above for current information.
 
 <h3>Common Uses</h3>
 
