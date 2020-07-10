@@ -7,32 +7,33 @@ type = "page"
 
 <p>NyloPro multiuse bags are perfect as an smell proof solution for food storage, as a laundry bag, and as a pack liner for day and multiday backpacks. Three products in one!</p>
 
-<div class="font-sans font-semibold text-xl">Purchase Options</div>
-
-<div class="sm:flex">
-    <div class="flex justify-center sm:w-1/2 sm:mr-5">
-      <img class="w-32 h-auto mr-2" src="{{< cdn-url "shop/zpacks-nylopro-odor-barrier-bags.webp" >}}" alt="Zpacks NyloPro Odor Barrier Bags">
-      <div class="ml-2">
-        <span class="text-sm">Zpacks</span>
-        <br>
-        <strong>NyloPro Odor Barrier Bags</strong>
+<div class="purchase-options">
+  <div class="inline-block border border-b-0 border-gray-400 bg-white rounded-tl rounded-tr leading-none font-sans font-semibold uppercase text-raven-600 -mb-px p-2">
+    Purchase Options
+  </div>
+  <div class="sm:flex border border-gray-400 rounded-tr rounded-bl rounded-br p-4">
+      <div class="flex justify-center sm:w-1/2 sm:mr-5">
+        <img class="w-32 h-auto mr-2" src="{{< cdn-url "shop/zpacks-nylopro-odor-barrier-bags.webp" >}}" alt="Zpacks NyloPro Odor Barrier Bags">
+        <div class="ml-2">
+          <span class="text-sm">Zpacks</span>
+          <br>
+          <strong>NyloPro Odor Barrier Bags</strong>
 {{< a-button-shop href="https://zpacks.com/products/nylopro-odor-barrier-bags?aff=37" class="mt-4" >}}
+        </div>
       </div>
-    </div>
-    <div class="flex justify-center mt-8 sm:w-1/2 sm:mt-0 sm:ml-5">
-      <img class="w-32 h-auto mr-2" src="{{< cdn-url "shop/bos-odor-sealing-bags.webp" >}}" alt="BOS Odor Sealing Bags.">
-      <div class="ml-2">
-        <span class="text-sm">Amazon</span>
-        <br>
-        <strong>BOS Odor Sealing Bags</strong>
+      <div class="flex justify-center mt-8 sm:w-1/2 sm:mt-0 sm:ml-5">
+        <img class="w-32 h-auto mr-2" src="{{< cdn-url "shop/bos-odor-sealing-bags.webp" >}}" alt="BOS Odor Sealing Bags.">
+        <div class="ml-2">
+          <span class="text-sm">Amazon</span>
+          <br>
+          <strong>BOS Odor Sealing Bags</strong>
 {{< a-button-shop href="https://www.amazon.com/dp/B07BF2MQRB/?tag=ltrl-20" class="mt-4" >}}
+        </div>
       </div>
-    </div>
+  </div>
 </div>
 
-* * *
-
-> The following information is an archive from when we used to sell this item directly.
+> The following information is an archive from when we used to sell this item directly. Please refer to the *Purchase Options* above for current information.
 
 <h3>Common Uses</h3>
 
