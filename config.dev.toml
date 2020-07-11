@@ -2,7 +2,7 @@ baseURL = "http://localhost:1313"
 
 [params.services]
 googleAnalyticsId = ""
-googleTagManagerId = "GTM-KZND9MH"
+googleTagManagerId = ""
 googleAdsId = ""
 googleAdsenseId = ""
 googleAdsenseAdSlotId = ""
