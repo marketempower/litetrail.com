@@ -8,9 +8,9 @@
 <a rel="nofollow" class="a-button-shop block border rounded{{ with $class }} {{ . }}{{ end }}" href="{{ $href }}" role="button">
   <div class="flex items-center">
     <div class="flex-none">
-      {{- partial "svg/shopping-cart.svg" (dict "Site" $.Site "Page" . "class" "h-7 w-auto rounded bg-raven-900 text-white fill-current m-2px p-2px") }}
+      {{- partial "svg/shopping-cart.svg" (dict "Site" $.Site "Page" . "class" "h-6 w-auto rounded bg-gray-900 text-white fill-current m-2px p-2px") }}
     </div>
-    <div class="flex-1 text-center whitespace-no-wrap text-base font-medium text-raven-900 pl-2 pr-2">
+    <div class="flex-1 text-center whitespace-no-wrap leading-none text-sm font-medium text-gray-900 pl-2 pr-2">
       <span>{{ $text }}</span>
     </div>
   </div>

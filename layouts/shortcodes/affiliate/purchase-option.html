@@ -15,9 +15,9 @@
     <img src="{{ $image }}" alt="{{ $title }}">
   </div>
   <div class="flex-1 ml-2">
-    <span class="text-sm">{{ $brand }}</span>
+    <span class="text-sm text-gray-600 font-medium">{{ $brand }}</span>
     <br>
-    <strong>{{ $title }}</strong>
+    <span class="font-bold text-gray-800">{{ $title }}</span>
     <div class="max-w-64 mt-4">
       {{- partial "affiliate/a-button-shop" (dict "Site" $.Site "Page" . "href" $href) }}
     </div>
