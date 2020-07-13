@@ -1,6 +1,6 @@
 +++
 date = 2020-06-15T14:00:00Z
-lastmod = 2020-07-06T11:00:00Z
+lastmod = 2020-07-13T02:00:00Z
 title = "2020 Ultralight Backpacking Gear List 9 lb"
 caption = "Stoke level way up on an icy morning. Ojai, CA. Photo: Nick Bobroff"
 feature = "ultralight-backpacking-gear-list.webp"
@@ -12,7 +12,7 @@ maxWidthContent = "max-w-6xl"
 +++
 
 {{< blocks/section width="max-w-680" mdown=off >}}
-<time class="text-raven-700" datetime="2020-07-06T11:00:00Z">Updated July 5, 2020.</time>
+<time class="text-raven-700" datetime="2020-07-13T02:00:00Z">Updated July 13, 2020.</time>
 
 <p class="lead mt-0">Over a decade of refinement, obsession, and testing has gone into the creation of this ultralight backpacking gear list. A sub 10-pound backpacking base weight, 3-season capable, durable, efficient, full-featured, and smile enhancing UL gear list. Comfortable in temperatures down to 20&#8457;, with generous safety, survival, and first aid essentials.</p>
 {{< /blocks/section >}}
@@ -27,30 +27,31 @@ maxWidthContent = "max-w-6xl"
 
 * * *
 
-{{% blocks/row %}}
-{{% blocks/column-left %}}
+{{< blocks/row >}}
+{{< blocks/column-left >}}
 {{% page-resource "01-worn-carried-info" %}}
-{{% /blocks/column-left %}}
-{{% blocks/column-right %}}
+{{< /blocks/column-left >}}
+{{< blocks/column-right >}}
 {{< figure src="gear-list/01-worn-carried.webp" caption="The author's typical Worn/Carried setup. Temple Crag, Sierra Nevada." >}}
-{{% /blocks/column-right %}}
-{{% /blocks/row %}}
+{{< /blocks/column-right >}}
+{{< /blocks/row >}}
 
-{{< page-resource "01-worn-carried-data" >}}
+{{% page-resource "01-worn-carried-pics" %}}
+{{% page-resource "01-worn-carried-data" %}}
 {{% page-resource "02-basepack-backpack-info" %}}
-{{< page-resource "02-basepack-backpack-data" >}}
+{{% page-resource "02-basepack-backpack-data" %}}
 {{% page-resource "03-basepack-shelter-info" %}}
-{{< page-resource "03-basepack-shelter-data" >}}
+{{% page-resource "03-basepack-shelter-data" %}}
 {{% page-resource "04-basepack-sleeping-info" %}}
-{{< page-resource "04-basepack-sleeping-data" >}}
+{{% page-resource "04-basepack-sleeping-data" %}}
 {{% page-resource "05-basepack-clothing-info" %}}
-{{< page-resource "05-basepack-clothing-data" >}}
+{{% page-resource "05-basepack-clothing-data" %}}
 {{% page-resource "06-basepack-gear-info" %}}
-{{< page-resource "06-basepack-gear-data" >}}
+{{% page-resource "06-basepack-gear-data" %}}
 {{% page-resource "07-consumables-info" %}}
-{{< page-resource "07-consumables-data" >}}
+{{% page-resource "07-consumables-data" %}}
 {{% page-resource "08-totals-info" %}}
-{{< page-resource "08-totals-data" >}}
+{{% page-resource "08-totals-data" %}}
 
 * * *
 

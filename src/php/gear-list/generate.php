@@ -3,7 +3,7 @@ setlocale(LC_MONETARY, 'en_US');
 
 include './data-2020.php';
 
-$outputPath = '../../../content/gear-list/';
+$outputPath = '../../../content/ultralight-backpacking-gear-list/';
 
 function getMoneyFormat()
 {
@@ -32,7 +32,8 @@ function toWeightFormat($number, $metric = 'oz')
 
 function tableHeader($title)
 {
-  $s = '<table class="table-gearlist">'.PHP_EOL;
+  $s = '<div class="table-responsive">'.PHP_EOL;
+  $s .= '<table class="table-gearlist">'.PHP_EOL;
   $s .= '<thead>'.PHP_EOL;
   $s .= '<tr class="bg-gray-200">'.PHP_EOL;
   $s .= '<th>'.$title.'</th>'.PHP_EOL;
@@ -69,6 +70,7 @@ function tableTotal($title, $cost, $weight)
   $s .= '</tr>'.PHP_EOL;
   $s .= '</tfoot>'.PHP_EOL;
   $s .= '</table>'.PHP_EOL;
+  $s .= '</div>'.PHP_EOL;
 
   return $s;
 }
@@ -86,7 +88,8 @@ function tableGrandTotalRow($title, $cost, $weight)
 
 function tableGrandTotal($title, $subtotal, $grandtotal)
 {
-  $s = '<table class="table-gearlist">'.PHP_EOL;
+  $s = '<div class="table-responsive">'.PHP_EOL;
+  $s .= '<table class="table-gearlist">'.PHP_EOL;
   $s .= '<thead>'.PHP_EOL;
   $s .= '<tr class="bg-gray-200">'.PHP_EOL;
   $s .= '<th colspan="3">'.$title.'</th>'.PHP_EOL;
@@ -97,6 +100,7 @@ function tableGrandTotal($title, $subtotal, $grandtotal)
   $s .= $grandtotal;
   $s .= '</tfoot>'.PHP_EOL;
   $s .= '</table>'.PHP_EOL;
+  $s .= '</div>'.PHP_EOL;
 
   return $s;
 }

@@ -14,11 +14,11 @@ $carriedData = [
     69.00,
     3.50],
     ['Socks',
-    '<a rel="nofollow" href="https://www.amazon.com/dp/B000XFW6OU/?tag=ltrl-20">Darn Tough Hiker Micro Crew</a>, Size L',
+    '<a rel="nofollow" href="https://www.amazon.com/dp/B000XFW6OU/?tag=ltrl-20">Darn Tough Hiker Micro Crew Socks</a>, Size L',
     22.00,
     2.60],
     ['Shoes',
-    '<a rel="nofollow" href="http://www.avantlink.com/click.php?tt=pl&ti=37&pw=149605&mi=10086&pt=3&pri=790373">Hoka One One Torrent</a>, Men\'s 9.5',
+    '<a rel="nofollow" href="http://www.avantlink.com/click.php?tt=pl&ti=37&pw=149605&mi=10086&pt=3&pri=790373">Hoka One One Torrent Shoes</a>, Men\'s 9.5',
     120.00,
     18.00],
     ['Accessories',
@@ -26,7 +26,7 @@ $carriedData = [
     455.00,
     7.00],
     ['Trekking Poles',
-    '<a rel="nofollow" href="https://locusgear.com/items/cp3">Locus Gear CP3</a>, Carbon fiber, flip-lock',
+    '<a rel="nofollow" href="https://locusgear.com/items/cp3">Locus Gear CP3 Trekking Poles</a>, Carbon fiber, flip-lock',
     135.00,
     11.50],
 ];
@@ -34,7 +34,7 @@ $carriedData = [
 $backpackTitle = 'Base Pack: Backpack';
 $backpackData = [
     ['Backpack',
-    '<a rel="nofollow" href="https://palantepacks.com/product/v2/">Pa\'lante Packs V2</a>, S18 Black 37L Size 19", non-hipbelt version',
+    '<a rel="nofollow" href="https://palantepacks.com/product/v2/">Pa\'lante Packs V2 Backpack</a>, S18 Black 37L Size 19", non-hipbelt version',
     245.00,
     15.70],
     ['Pack Liner',

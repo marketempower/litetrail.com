@@ -14,7 +14,7 @@
   @apply relative overflow-hidden shadow mt-6;
 }
 
-.cdata > table.table-gearlist {
+.cdata > .table-responsive > table.table-gearlist {
   @apply text-black;
 
   & th, & td {
@@ -46,7 +46,7 @@
     @apply rounded shadow-lg;
   }
 
-  .cdata > table.table-gearlist {
+  .cdata > .table-responsive > table.table-gearlist {
     @apply text-sm;
   }
 }
