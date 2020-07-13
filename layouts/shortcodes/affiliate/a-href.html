@@ -20,10 +20,10 @@
 {{- $blank = .Get 5 -}}
 {{- end }}
 {{- if not $text }}
-{{- errorf "Missing required 'text'. Shortcode: 'a-href'." -}}
+{{- errorf "Missing required 'text'. Shortcode: 'affiliate/a-href'." -}}
 {{- end }}
 {{- if not $href }}
-{{- errorf "Missing required 'href'. Shortcode: 'a-href'." -}}
+{{- errorf "Missing required 'href'. Shortcode: 'affiliate/a-href'." -}}
 {{- end }}
 {{- $nofollow = $nofollow | default "on" -}}
 {{- $blank = $blank | default "on" -}}
