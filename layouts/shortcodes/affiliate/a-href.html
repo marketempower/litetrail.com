@@ -1,0 +1,30 @@
+{{- $text := "" -}}
+{{- $href := "" -}}
+{{- $id := "" -}}
+{{- $class := "" -}}
+{{- $nofollow := "" -}}
+{{- $blank := "" -}}
+{{- if .IsNamedParams }}
+{{- $text = .Get "text" -}}
+{{- $href = .Get "href" -}}
+{{- $id = .Get "id" -}}
+{{- $class = .Get "class" -}}
+{{- $nofollow = .Get "nofollow" -}}
+{{- $blank = .Get "blank" -}}
+{{- else }}
+{{- $text = .Get 0 -}}
+{{- $href = .Get 1 -}}
+{{- $id = .Get 2 -}}
+{{- $class = .Get 3 -}}
+{{- $nofollow = .Get 4 -}}
+{{- $blank = .Get 5 -}}
+{{- end }}
+{{- if not $text }}
+{{- errorf "Missing required 'text'. Shortcode: 'a-href'." -}}
+{{- end }}
+{{- if not $href }}
+{{- errorf "Missing required 'href'. Shortcode: 'a-href'." -}}
+{{- end }}
+{{- $nofollow = $nofollow | default "on" -}}
+{{- $blank = $blank | default "on" -}}
+<a{{ with $id }} id="{{ . }}"{{ end }}{{ with $class }} class="{{ . }}"{{ end }}{{ if eq $nofollow "on" }} rel="nofollow"{{ end }}{{ if eq $blank "on" }} target="_blank"{{ end }} href="{{ $href | safeHTMLAttr | safeHTML }}">{{ $text }}</a>

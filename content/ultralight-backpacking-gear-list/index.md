@@ -58,7 +58,7 @@ maxWidthContent = "max-w-6xl"
 {{% blocks/section width="max-w-680" %}}
 ### Why 10-Pounds?
 
-With today's technology and gear options that's the weight of a typical "ultralight" kit. A focus on lightweight items with a nod to durability. In the classic lightweight backpacking bible [Beyond Backpacking](https://www.amazon.com/dp/0963235931/?tag=ltrl-20), Ray Jardine configured an 8.5 pound base pack that he considered thru hike worthy. However, Ray hiked with a partner and they split up gear and each carried only a partial kit. For example, Jenny might carry the shelter kit, while Ray would carry the sleeping kit. If you were to weigh up Ray's pack fully allocated, it would likely land in the 10-pound range.
+With today's technology and gear options that's the weight of a typical "ultralight" kit. A focus on lightweight items with a nod to durability. In the classic lightweight backpacking bible {{< affiliate/a-href "Beyond Backpacking" "https://www.amazon.com/dp/0963235931/?tag=ltrl-20" >}}, Ray Jardine configured an 8.5 pound base pack that he considered thru hike worthy. However, Ray hiked with a partner and they split up gear and each carried only a partial kit. For example, Jenny might carry the shelter kit, while Ray would carry the sleeping kit. If you were to weigh up Ray's pack fully allocated, it would likely land in the 10-pound range.
 
 ### What about SUL?
 
@@ -70,7 +70,7 @@ On a thru hike one needs to account for things like town stops, recharging elect
 
 ### Plug and Play
 
-Many of the items in this list can be switched out for your preferred type, and not adversely effect the 10-pound threshold. For example, you may prefer a fully enclosed shelter with bug netting such as the [Zpacks Plexamid Tent](https://zpacks.com/products/plexamid-tent?aff=37) (15.3 oz.), or a backpack with more support such as the [Hyperlite Mountain Gear 2400 Junction](https://www.avantlink.com/click.php?tt=pl&ti=3502&pw=149605&mi=13582&pt=3&pri=340) (30.1oz).
+Many of the items in this list can be switched out for your preferred type, and not adversely effect the 10-pound threshold. For example, you may prefer a fully enclosed shelter with bug netting such as the {{< affiliate/a-href "Zpacks Plexamid Tent" "https://zpacks.com/products/plexamid-tent?aff=37" >}} (15.3 oz.), or a backpack with more support such as the {{< affiliate/a-href "Hyperlite Mountain Gear 2400 Junction" "https://www.avantlink.com/click.php?tt=pl&ti=3502&pw=149605&mi=13582&pt=3&pri=340" >}} (30.1oz).
 
 Think of this list as a template, and as long as you plug in items with similar function and weight, the end result will be a list customized for your needs that maintains a happy balance between weight and experience, while keeping you safe - so long as you fill up the space between your ears with the right knowledge, skills, and experience.
 
