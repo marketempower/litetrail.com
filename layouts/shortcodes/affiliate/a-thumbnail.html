@@ -1,0 +1,30 @@
+{{- $title := "" -}}
+{{- $image := "" -}}
+{{- $href := "" -}}
+{{- $nofollow := "" -}}
+{{- if .IsNamedParams }}
+{{- $title = .Get "title" -}}
+{{- $image = .Get "image" -}}
+{{- $href = .Get "href" -}}
+{{- $nofollow = .Get "nofollow" -}}
+{{- else }}
+{{- $title = .Get 0 -}}
+{{- $image = .Get 1 -}}
+{{- $href = .Get 2 -}}
+{{- $nofollow = .Get 3 -}}
+{{- end }}
+{{- if not $title }}
+{{- errorf "Missing required 'title'. Shortcode: 'affiliate/a-thumbnail'." -}}
+{{- end }}
+{{- if not $image }}
+{{- errorf "Missing required 'image'. Shortcode: 'affiliate/a-thumbnail'." -}}
+{{- end }}
+{{- if not $href }}
+{{- errorf "Missing required 'href'. Shortcode: 'affiliate/a-thumbnail'." -}}
+{{- end }}
+{{- $image = partial "cdn-src" (dict "Site" $.Site "Page" . "src" $image) -}}
+{{- $nofollow = $nofollow | default "on" -}}
+<div class="w-40 px-4 sm:px-6 mt-6">
+  <a class="block rounded shadow p-1"{{ if eq $nofollow "on" }} rel="nofollow"{{ end }} href="{{ $href }}"><img class="rounded" src="{{ $image }}" alt="{{ $title }}"></a>
+  <h4 class="text-sm text-center leading-snug text-gray-600 mt-2">{{ $title }}</h4>
+</div>
