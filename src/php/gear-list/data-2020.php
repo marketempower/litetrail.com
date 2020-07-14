@@ -58,7 +58,7 @@ $shelterData = [
     0,
     1.25],
     ['Groundsheet',
-    '<a id="window-shrink-film-groundsheet_gl-data" rel="nofollow" target="_blank" href="https://www.amazon.com/dp/B002GKC2GW/?tag=ltrl-20">Window Shrink Film</a> (Polycryo) 44x84"',
+    '<a id="duck-window-shrink-film_gl-data" rel="nofollow" target="_blank" href="https://www.amazon.com/dp/B002GKC2GW/?tag=ltrl-20">Window Shrink Film</a> (Polycryo) 44x84"',
     2.25,
     1.50]
 ];
@@ -122,19 +122,19 @@ $clothingData = [
 $gearTitle = 'Base Pack: Gear';
 $gearData = [
     ['Essentials',
-    '<a id="_gl-data" rel="nofollow" target="_blank" href="https://www.amazon.com/dp/B0785TM5SX/?tag=ltrl-20">Nitecore NU25 headlamp</a>, <a id="_gl-data" rel="nofollow" target="_blank" href="https://www.amazon.com/dp/B0014YK236/?tag=ltrl-20">Victorinox knife</a>, micro carabiner, mini butane lighter, pen cartridge, ear plugs, needles, safety pins, water filter gasket, inflatable pad patch, <a id="_gl-data" rel="nofollow" target="_blank" href="https://www.amazon.com/dp/B00UTK466U/?tag=ltrl-20">tenacious tape</a>, 6\' <a id="_gl-data" rel="nofollow" target="_blank" href="https://www.amazon.com/dp/B06ZZ6LL74/?tag=ltrl-20">gaffer\'s tape</a>, small case',
+    '<a id="nitecore-nu25-headlamp_gl-data" rel="nofollow" target="_blank" href="https://www.amazon.com/dp/B0785TM5SX/?tag=ltrl-20">Nitecore NU25 headlamp</a>, <a id="victorinox-swiss-army-classic-pocket-knife_gl-data" rel="nofollow" target="_blank" href="https://www.amazon.com/dp/B0014YK236/?tag=ltrl-20">Victorinox knife</a>, micro carabiner, mini butane lighter, pen cartridge, ear plugs, needles, safety pins, water filter gasket, inflatable pad patch, <a id="gear-aid-tenacious-tape-mini-patches_gl-data" rel="nofollow" target="_blank" href="https://www.amazon.com/dp/B00UTK466U/?tag=ltrl-20">tenacious tape</a>, 2"x6\' <a id="gaffer-power-gaffer-tape_gl-data" rel="nofollow" target="_blank" href="https://www.amazon.com/dp/B06ZZ6LL74/?tag=ltrl-20">gaffer\'s tape</a>, small case',
     55.00,
     4.00],
     ['Survival',
-    '<a id="_gl-data" rel="nofollow" target="_blank" href="https://www.amazon.com/dp/B00440VJMU/?tag=ltrl-20">LMF Scout fire steel</a>, <a id="_gl-data" rel="nofollow" target="_blank" href="https://www.amazon.com/dp/B00029EWYY/?tag=ltrl-20">TinderQuik</a>, <a id="_gl-data" rel="nofollow" target="_blank" href="https://www.amazon.com/dp/B0016A8ODI/?tag=ltrl-20">water purification tablets</a>',
+    '<a id="light-my-fire-swedish-firesteel-2-scout_gl-data" rel="nofollow" target="_blank" href="https://www.amazon.com/dp/B00440VJMU/?tag=ltrl-20">Light My Fire Swedish FireSteel 2.0 Scout</a>, <a id="four-seasons-survival-tinder-quik-fire-tab_gl-data" rel="nofollow" target="_blank" href="https://www.amazon.com/dp/B00029EWYY/?tag=ltrl-20">TinderQuik</a>, <a id="katadyn-micropur-mp1-purification-tablets_gl-data" rel="nofollow" target="_blank" href="https://www.amazon.com/dp/B0016A8ODI/?tag=ltrl-20">water purification tablets</a>',
     10.00,
     1.00],
     ['First Aid',
-    '<a id="_gl-data" rel="nofollow" target="_blank" href="https://www.amazon.com/dp/B007XZ5LEK/?tag=ltrl-20">Triple antibiotic</a>, ibuprofen, acetaminophen, diphenhydramine, loperamide, aspirin, steri-strips, bandage tape, tweezers, small case',
+    '<a id="first-aid-only-triple-antibiotic-ointment-packet_gl-data" rel="nofollow" target="_blank" href="https://www.amazon.com/dp/B007XZ5LEK/?tag=ltrl-20">Triple antibiotic</a>, ibuprofen, acetaminophen, diphenhydramine, loperamide, aspirin, steri-strips, bandage tape, tweezers, small case',
     10.00,
     1.65],
     ['Hygiene',
-    'Chapstick, <a id="_gl-data" rel="nofollow" target="_blank" href="https://www.amazon.com/dp/B00I3DJ796/?tag=ltrl-20">sunscreen</a> 15ml, <a id="_gl-data" rel="nofollow" target="_blank" href="https://www.amazon.com/dp/B002CMOM3U/?tag=ltrl-20">Picaridin insect repellent</a> 15ml, <a id="_gl-data" rel="nofollow" target="_blank" href="https://www.amazon.com/dp/B002MDHMMW/?tag=ltrl-20">benzalkonium hand sanitizer</a> 15ml, <a id="_gl-data" rel="nofollow" target="_blank" href="https://www.amazon.com/dp/B001CGOPZM/?tag=ltrl-20">soap sheets</a>, toothbrush, toothpaste, floss, <a id="_gl-data" rel="nofollow" target="_blank" href="https://www.amazon.com/dp/B0797XK6XW/?tag=ltrl-20">Deuce #1 trowel</a>',
+    'Chapstick, <a id="alba-botanica-sport-spf-45-mineral-sunscreen_gl-data" rel="nofollow" target="_blank" href="https://www.amazon.com/dp/B00I3DJ796/?tag=ltrl-20">sunscreen</a> 15ml, <a id="sawyer-picaridin-insect-repellent_gl-data" rel="nofollow" target="_blank" href="https://www.amazon.com/dp/B002CMOM3U/?tag=ltrl-20">picaridin insect repellent</a> 15ml, <a id="safehands-alcohol-free-foaming-hand-sanitizer_gl-data" rel="nofollow" target="_blank" href="https://www.amazon.com/dp/B07Z5KDTJ9/?tag=ltrl-20">benzalkonium hand sanitizer</a> 15ml, <a id="travelon-hand-soap-toiletry-sheets_gl-data" rel="nofollow" target="_blank" href="https://www.amazon.com/dp/B001CGOPZM/?tag=ltrl-20">soap sheets</a>, toothbrush, toothpaste, floss, <a id="thetentlab-deuce-potty-trowel_gl-data" rel="nofollow" target="_blank" href="https://www.amazon.com/dp/B0797XK6XW/?tag=ltrl-20">Deuce #1 trowel</a>',
     25.00,
     3.50],
     ['Electronics',

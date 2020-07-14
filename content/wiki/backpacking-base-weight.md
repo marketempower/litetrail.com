@@ -28,7 +28,7 @@ Hikers with a Backpacking Base Weight of less than five pounds (2.27 kg) are kno
 
 In order to achieve a super ultralight base weight, you must diligently follow the lightweight philosophy above. For example:
 
-- A {{< affiliate/a-href "poncho tarp" "https://www.avantlink.com/click.php?tt=cl&merchant_id=8aa14f51-1fb2-4c30-b785-1c6c0a96cd31&website_id=03448b29-bc91-484c-a389-effe157d2982&url=https%3A%2F%2Fwww.garagegrowngear.com%2Fproducts%2Fgatewood-cape-by-six-moon-designs" >}} which functions as a rain jacket and tarp shelter
+- A {{< affiliate/a-href "poncho tarp" "https://www.avantlink.com/click.php?tt=cl&merchant_id=8aa14f51-1fb2-4c30-b785-1c6c0a96cd31&website_id=03448b29-bc91-484c-a389-effe157d2982&url=https%3A%2F%2Fwww.garagegrowngear.com%2Fproducts%2Fgatewood-cape-by-six-moon-designs" "six-moon-designs-gatewood-cape_wiki-bbw" >}} which functions as a rain jacket and tarp shelter
 - Cutting off the handle of your toothbrush
 - A frameless backpack constructed of the thinnest fabrics available such as Dyneema Composite Fabric (DCF)
 
@@ -41,7 +41,7 @@ In order to achieve an ultralight base weight, you must continue to practice the
 
 - A separate rain jacket and shelter
 - A full-size travel toothbrush
-- A simple framed backpack
+- A lightweight internal-frame backpack
 
 ### Sub-15 lb Base Weight
 ### Lightweight Backpacking LW
