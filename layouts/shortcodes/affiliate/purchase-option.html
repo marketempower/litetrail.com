@@ -5,6 +5,7 @@
 {{- $image := partial "cdn-src" (dict "Site" $.Site "Page" . "src" (.Get "image")) -}}
 {{- $href := .Get "href" -}}
 {{- $class := "" -}}
+{{- $buttonId := .Get "buttonId" -}}
 {{- if and (eq $index 1) (eq $count 2) }}
 {{- $class = "sm:w-1/2 sm:mr-5" -}}
 {{- else if and (eq $index 2) (eq $count 2) }}
@@ -19,7 +20,7 @@
     <br>
     <span class="font-bold text-gray-800">{{ $title }}</span>
     <div class="max-w-64 mt-4">
-      {{- partial "affiliate/a-button-shop" (dict "Site" $.Site "Page" . "href" $href) }}
+      {{- partial "affiliate/a-button-shop" (dict "Site" $.Site "Page" . "href" $href "id" $buttonId) }}
     </div>
   </div>
 </div>

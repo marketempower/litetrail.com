@@ -7,8 +7,8 @@ feature = "ultralight-backpacking-gear-list.webp"
 maxWidthContent = "max-w-6xl"
 
 # LOCAL-DEV ONLY! UNCOMMENT TO PRINT PDF VERSION
-# type = "chromeless"
-# layout = "gear-list"
+type = "chromeless"
+layout = "gear-list"
 +++
 
 {{< blocks/section width="max-w-680" mdown=off >}}
@@ -18,7 +18,7 @@ maxWidthContent = "max-w-6xl"
 {{< /blocks/section >}}
 
 {{< blocks/justify >}}
-{{< button text="Download Printable PDF" type="base" icon="download" href="v1594764921/pdf/2020-ultralight-backpacking-gear-list-9-lb.pdf" >}}
+{{< button text="Download Printable PDF" type="base" icon="download" href="v1594767432/pdf/2020-ultralight-backpacking-gear-list-9-lb.pdf" >}}
 {{< /blocks/justify >}}
 
 {{< blocks/section width="max-w-680" >}}
@@ -58,7 +58,7 @@ maxWidthContent = "max-w-6xl"
 {{% blocks/section width="max-w-680" %}}
 ### Why 10-Pounds?
 
-With today's technology and gear options that's the weight of a typical "ultralight" kit. A focus on lightweight items with a nod to durability. In the classic lightweight backpacking bible {{< affiliate/a-href "Beyond Backpacking" "https://www.amazon.com/dp/0963235931/?tag=ltrl-20" "beyond-backpacking-ray-jardine_gl-copy" >}}, Ray Jardine configured an 8.5 pound base pack that he considered thru hike worthy. However, Ray hiked with a partner and they split up gear and each carried only a partial kit. For example, Jenny might carry the shelter kit, while Ray would carry the sleeping kit. If you were to weigh up Ray's pack fully allocated, it would likely land in the 10-pound range.
+With today's technology and gear options that's the weight of a typical "ultralight" kit. A focus on lightweight items with a nod to durability. In the classic lightweight backpacking bible {{< affiliate/a-href "Beyond Backpacking" "https://www.amazon.com/dp/0963235931/?tag=ltrl-20" "beyond-backpacking-ray-jardine_text" >}}, Ray Jardine configured an 8.5 pound base pack that he considered thru hike worthy. However, Ray hiked with a partner and they split up gear and each carried only a partial kit. For example, Jenny might carry the shelter kit, while Ray would carry the sleeping kit. If you were to weigh up Ray's pack fully allocated, it would likely land in the 10-pound range.
 
 ### What about SUL?
 
@@ -70,7 +70,7 @@ On a thru hike one needs to account for things like town stops, recharging elect
 
 ### Plug and Play
 
-Many of the items in this list can be switched out for your preferred type, and not adversely effect the 10-pound threshold. For example, you may prefer a fully enclosed shelter with bug netting such as the {{< affiliate/a-href "Zpacks Plexamid Tent" "https://zpacks.com/products/plexamid-tent?aff=37" "zpacks-plexamid-tent_gl-copy" >}} (15.3 oz.), or a backpack with more support such as the {{< affiliate/a-href "Hyperlite Mountain Gear 2400 Junction" "https://www.avantlink.com/click.php?tt=pl&ti=3502&pw=149605&mi=13582&pt=3&pri=340" "hyperlite-mountain-gear-2400-junction_gl-copy" >}} (30.1oz).
+Many of the items in this list can be switched out for your preferred type, and not adversely effect the 10-pound threshold. For example, you may prefer a fully enclosed shelter with bug netting such as the {{< affiliate/a-href "Zpacks Plexamid Tent" "https://zpacks.com/products/plexamid-tent?aff=37" "zpacks-plexamid-tent_text" >}} (15.3 oz.), or a backpack with more support such as the {{< affiliate/a-href "Hyperlite Mountain Gear 2400 Junction" "https://www.avantlink.com/click.php?tt=pl&ti=3502&pw=149605&mi=13582&pt=3&pri=340" "hyperlite-mountain-gear-2400-junction_text" >}} (30.1oz).
 
 Think of this list as a template, and as long as you plug in items with similar function and weight, the end result will be a list customized for your needs that maintains a happy balance between weight and experience, while keeping you safe - so long as you fill up the space between your ears with the right knowledge, skills, and experience.
 

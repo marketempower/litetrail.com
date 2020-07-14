@@ -8,8 +8,8 @@ type = "page"
 <p>The Titanium Solid Fuel Cook System contains everything you need for a complete <em>~3 oz</em> ultralight cook kit with a 550 mL capacity. Designed as one unit, to work together as a whole, our cook system includes a super ultralight (SUL) cookpot with or without handles and lid, solid fuel stove / stand, wind screen, ground protection and a <em>premium</em> Cuben Fiber storage stuff sack.</p>
 
 {{< affiliate/purchase-options >}}
-{{< affiliate/purchase-option brand="REI" title="Toaks Ultralight Titanium Solid Fuel Cook System" index=1 count=2 image="shop/toaks-ultralight-titanium-solid-fuel-cook-system.webp" href="https://www.avantlink.com/click.php?tt=pl&ti=115&pw=149605&mi=10248&pt=3&pri=640051" >}}
-{{< affiliate/purchase-option brand="Amazon" title="TOAKS Ultralight Titanium Cook System" index=2 count=2 image="shop/toaks-ultralight-titanium-cook-system.webp" href="https://www.amazon.com/dp/B00CGTWYIY/?tag=ltrl-20" >}}
+{{< affiliate/purchase-option brand="REI" title="Toaks Ultralight Titanium Solid Fuel Cook System" index=1 count=2 image="shop/toaks-ultralight-titanium-solid-fuel-cook-system.webp" href="https://www.avantlink.com/click.php?tt=pl&ti=115&pw=149605&mi=10248&pt=3&pri=640051" buttonId="toaks-ultralight-titanium-solid-fuel-cook-system_button" >}}
+{{< affiliate/purchase-option brand="Amazon" title="TOAKS Ultralight Titanium Cook System" index=2 count=2 image="shop/toaks-ultralight-titanium-cook-system.webp" href="https://www.amazon.com/dp/B00CGTWYIY/?tag=ltrl-20" buttonId="toaks-ultralight-titanium-cook-system_button" >}}
 {{< /affiliate/purchase-options >}}
 
 > The following information is for archival purposes. Please refer to the *Purchase Options* above for current information.

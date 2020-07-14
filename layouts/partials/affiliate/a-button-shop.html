@@ -1,11 +1,12 @@
 {{- $href := .href -}}
 {{- $text := .text -}}
+{{- $id := .id -}}
 {{- $class := .class -}}
 {{- if not $href }}
 {{- errorf "Missing required 'href'. Partial: 'affiliate/a-button-shop'." -}}
 {{- end }}
 {{- $text = $text | default (T "buyNow") -}}
-<a rel="nofollow" class="a-button-shop block border rounded{{ with $class }} {{ . }}{{ end }}" href="{{ $href }}" role="button">
+<a{{ with $id }} id="{{ . }}"{{ end }} class="a-button-shop block border rounded{{ with $class }} {{ . }}{{ end }}" rel="nofollow" target="_blank" href="{{ $href }}" role="button">
   <div class="flex items-center">
     <div class="flex-none">
       {{- partial "svg/shopping-cart.svg" (dict "Site" $.Site "Page" . "class" "h-6 w-auto rounded bg-gray-900 text-white fill-current m-2px p-2px") }}

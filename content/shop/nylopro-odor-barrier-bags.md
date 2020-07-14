@@ -8,8 +8,8 @@ type = "page"
 <p>NyloPro multiuse bags are perfect as an smell proof solution for food storage, as a laundry bag, and as a pack liner for day and multiday backpacks. Three products in one!</p>
 
 {{< affiliate/purchase-options >}}
-{{< affiliate/purchase-option brand="Zpacks" title="NyloPro Odor Barrier Bags" index=1 count=2 image="shop/zpacks-nylopro-odor-barrier-bags.webp" href="https://zpacks.com/products/nylopro-odor-barrier-bags?aff=37" >}}
-{{< affiliate/purchase-option brand="Amazon" title="BOS Odor Sealing Bags" index=2 count=2 image="shop/bos-odor-sealing-bags.webp" href="https://www.amazon.com/dp/B07BF2MQRB/?tag=ltrl-20" >}}
+{{< affiliate/purchase-option brand="Zpacks" title="NyloPro Odor Barrier Bags" index=1 count=2 image="shop/zpacks-nylopro-odor-barrier-bags.webp" href="https://zpacks.com/products/nylopro-odor-barrier-bags?aff=37" buttonId="zpacks-nylopro-odor-barrier-bags_button" >}}
+{{< affiliate/purchase-option brand="Amazon" title="BOS Odor Sealing Bags" index=2 count=2 image="shop/bos-odor-sealing-bags.webp" href="https://www.amazon.com/dp/B07BF2MQRB/?tag=ltrl-20" buttonId="bos-odor-sealing-bags_button" >}}
 {{< /affiliate/purchase-options >}}
 
 > The following information is for archival purposes. Please refer to the *Purchase Options* above for current information.
