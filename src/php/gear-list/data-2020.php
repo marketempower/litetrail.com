@@ -22,13 +22,13 @@ $carriedData = [
     120.00,
     18.00],
     ['Accessories',
-    'Hat, <a id="buff-head-wear_data" rel="nofollow" target="_blank" href="https://www.amazon.com/dp/B07GRKKWWW/?tag=ltrl-20">Buff head wear</a>, <a id="cotton-bandanna_data" rel="nofollow" target="_blank" href="http://www.avantlink.com/click.php?tt=pl&ti=19&pw=149605&mi=10008&pt=3&pri=1025152">cotton bandanna</a>, <a id="oakley-turbine-sunglasses_data" rel="nofollow" target="_blank" href="https://www.amazon.com/dp/B00WJPB3D2/?tag=ltrl-20">Oakley Turbine sunglasses</a>, <a id="suunto-core-watch_data" rel="nofollow" target="_blank" href="https://www.amazon.com/dp/B007A763W0/?tag=ltrl-20">Suunto Core watch</a>',
+    'Hat, <a id="buff-head-wear_data" rel="nofollow" target="_blank" href="https://www.amazon.com/dp/B07GRKKWWW/?tag=ltrl-20">Buff head wear</a>, <a id="cotton-bandanna_data" rel="nofollow" target="_blank" href="https://www.avantlink.com/click.php?tt=pl&ti=115&pw=149605&mi=10248&pt=3&pri=817542">cotton bandanna</a>, <a id="oakley-turbine-sunglasses_data" rel="nofollow" target="_blank" href="https://www.amazon.com/dp/B073QTLF8R/?tag=ltrl-20">Oakley Turbine sunglasses</a>, <a id="suunto-core-watch_data" rel="nofollow" target="_blank" href="https://www.amazon.com/dp/B00LN9ATY4/?tag=ltrl-20">Suunto Core watch</a>',
     455.00,
     7.00],
     ['Trekking Poles',
-    '<a id="locus-gear-cp3-trekking-poles_data" rel="nofollow" target="_blank" href="https://locusgear.com/items/cp3">Locus Gear CP3 Trekking Poles</a>, Carbon fiber, flip-lock',
-    135.00,
-    11.50],
+    '<a id="zpacks-carbon-fiber-trekking-poles_data" rel="nofollow" target="_blank" href="https://zpacks.com/products/zpacks-carbon-fiber-trekking-pole?aff=37">Zpacks Carbon Fiber Trekking Poles</a>',
+    99.00,
+    13.40],
 ];
 
 $backpackTitle = 'Base Pack: Backpack';
@@ -50,7 +50,7 @@ $shelterData = [
     299.00,
     4.75],
     ['Stakes',
-    '<a id="easton-aluminum-nano-nail-stakes_data" rel="nofollow" target="_blank" href="https://mountainlaureldesigns.com/product/easton-aluminum-nano-nail-stakes/">Easton Nano Spike</a> 2x8", <a id="msr-groundhog-tent-stake-kit_data" rel="nofollow" target="_blank" href="https://www.amazon.com/dp/B006ZC5KLG/?tag=ltrl-20">MSR GroundHog</a> 4x7.5", <a id="ti-shepherds-hook-stake-orange_data" rel="nofollow" target="_blank" href="https://www.amazon.com/dp/B001OPKGAO/?tag=ltrl-20">Ti Shepherd Hook</a> 4x6", <a id="liteaf-tent-stake-bag_data" rel="nofollow" target="_blank" href="https://www.avantlink.com/click.php?tt=app&ti=1019&mi=13757&pw=149605&url=https%3A%2F%2Fwww.garagegrowngear.com%2Fproducts%2Ftent-stake-bag-by-liteaf%3Fvariant%3D16007821131850">LiteAF Tent Stake bag</a>',
+    '<a id="easton-aluminum-nano-nail-stakes_data" rel="nofollow" target="_blank" href="https://mountainlaureldesigns.com/product/easton-aluminum-nano-nail-stakes/">Easton Nano Spike</a> 2x8", <a id="msr-groundhog-tent-stake-kit_data" rel="nofollow" target="_blank" href="https://www.amazon.com/dp/B006ZC5KLG/?tag=ltrl-20">MSR GroundHog</a> 4x7.5", <a id="ti-shepherds-hook-stake-orange_data" rel="nofollow" target="_blank" href="https://www.amazon.com/dp/B001OPKGAO/?tag=ltrl-20">Ti Shepherd Hook</a> 4x6", <a id="mld-ul-cuben-fiber-stake-sacks_data" rel="nofollow" target="_blank" href="https://mountainlaureldesigns.com/product/ul-cuben-fiber-stake-sacks/">MLD DCF Tent Stake bag</a> Size L',
     38.49,
     3.75],
     ['Guylines',
@@ -82,7 +82,7 @@ $sleepingData = [
 $clothingTitle = 'Base Pack: Clothing';
 $clothingData = [
     ['Top, Shell',
-    '<a id="arcteryx-zeta-fl-rain-jacket_data" rel="nofollow" target="_blank" href="http://www.avantlink.com/click.php?tt=pl&ti=115&pw=149605&mi=10248&pt=3&pri=648113">Arc\'teryx Zeta FL Rain Jacket</a>, S19 Men\'s M',
+    '<a id="arcteryx-zeta-fl-rain-jacket_data" rel="nofollow" target="_blank" href="https://www.avantlink.com/click.php?tt=pl&ti=37&pw=149605&mi=10086&pt=3&pri=1433148">Arc\'teryx Zeta FL Rain Jacket</a>, S19 Men\'s M',
     325.00,
     7.35],
     ['Top, Base',
@@ -94,7 +94,7 @@ $clothingData = [
     249.00,
     8.15],
     ['Bottom, Shell',
-    '<a id="montbell-versalite-rain-pants_data" rel="nofollow" target="_blank" href="https://www.montbell.us/products/disp.php?p_id=1128594">Montbell Versalite Rain Pants</a>, S19 Men\'s M',
+    '<a id="montbell-versalite-rain-pants_data" rel="nofollow" target="_blank" href="https://www.montbell.us/products/disp.php?cat_id=25045&p_id=1128594">Montbell Versalite Rain Pants</a>, S19 Men\'s M',
     139.00,
     3.20],
     ['Bottom, Base',
@@ -122,19 +122,19 @@ $clothingData = [
 $gearTitle = 'Base Pack: Gear';
 $gearData = [
     ['Essentials',
-    '<a id="nitecore-nu25-headlamp_data" rel="nofollow" target="_blank" href="https://www.amazon.com/dp/B0785TM5SX/?tag=ltrl-20">Nitecore NU25 headlamp</a>, <a id="victorinox-swiss-army-classic-pocket-knife_data" rel="nofollow" target="_blank" href="https://www.amazon.com/dp/B0014YK236/?tag=ltrl-20">Victorinox knife</a>, micro carabiner, mini butane lighter, pen cartridge, ear plugs, needles, safety pins, water filter gasket, inflatable pad patch, <a id="gear-aid-tenacious-tape-mini-patches_data" rel="nofollow" target="_blank" href="https://www.amazon.com/dp/B00UTK466U/?tag=ltrl-20">tenacious tape</a>, <a id="gaffer-power-gaffer-tape_data" rel="nofollow" target="_blank" href="https://www.amazon.com/dp/B06ZZ6LL74/?tag=ltrl-20">gaffer\'s tape</a> 2"x6\', small case',
+    '<a id="nitecore-nu25-headlamp_data" rel="nofollow" target="_blank" href="https://www.amazon.com/dp/B0785TM5SX/?tag=ltrl-20">Nitecore NU25 headlamp</a>, <a id="victorinox-swiss-army-classic-pocket-knife_data" rel="nofollow" target="_blank" href="https://www.amazon.com/dp/B0014YK236/?tag=ltrl-20">Victorinox knife</a>, micro carabiner, mini butane lighter, pen cartridge, ear plugs, needles, safety pins, water filter gasket, inflatable pad patch, <a id="gear-aid-tenacious-tape-mini-patches_data" rel="nofollow" target="_blank" href="https://www.amazon.com/dp/B00UTK466U/?tag=ltrl-20">tenacious tape</a>, <a id="gaffer-power-gaffer-tape_data" rel="nofollow" target="_blank" href="https://www.amazon.com/dp/B06ZZ6LL74/?tag=ltrl-20">gaffer\'s tape</a> 2"x6\', <a id="q-tips-cotton-swabs-travel-size_data" rel="nofollow" target="_blank" href="https://www.amazon.com/dp/B01IAI88XO/?tag=ltrl-20">small storage case</a>',
     55.00,
     4.00],
     ['Survival',
-    '<a id="light-my-fire-swedish-firesteel-2-scout_data" rel="nofollow" target="_blank" href="https://www.amazon.com/dp/B00440VJMU/?tag=ltrl-20">Light My Fire Swedish FireSteel 2.0 Scout</a>, <a id="four-seasons-survival-tinder-quik-fire-tab_data" rel="nofollow" target="_blank" href="https://www.amazon.com/dp/B00029EWYY/?tag=ltrl-20">TinderQuik</a>, <a id="katadyn-micropur-mp1-purification-tablets_data" rel="nofollow" target="_blank" href="https://www.amazon.com/dp/B0016A8ODI/?tag=ltrl-20">water purification tablets</a>',
-    10.00,
-    1.00],
+    '<a id="sol-fire-lite-kit-tinder-quik_data" rel="nofollow" target="_blank" href="https://www.avantlink.com/click.php?tt=pl&ti=115&pw=149605&mi=10248&pt=3&pri=676418">SOL Fire Lite Kit with Tinder-Quik</a> x6, <a id="katadyn-micropur-mp1-purification-tablets_data" rel="nofollow" target="_blank" href="https://www.amazon.com/dp/B0016A8ODI/?tag=ltrl-20">water purification tablets</a> x6',
+    11.00,
+    0.35],
     ['First Aid',
-    '<a id="first-aid-only-triple-antibiotic-ointment-packet_data" rel="nofollow" target="_blank" href="https://www.amazon.com/dp/B007XZ5LEK/?tag=ltrl-20">Triple antibiotic</a>, ibuprofen, acetaminophen, diphenhydramine, loperamide, aspirin, steri-strips, bandage tape, tweezers, small case',
+    '<a id="first-aid-only-triple-antibiotic-ointment-packet_data" rel="nofollow" target="_blank" href="https://www.amazon.com/dp/B007XZ5LEK/?tag=ltrl-20">Triple antibiotic</a>, ibuprofen, acetaminophen, diphenhydramine, loperamide, aspirin, steri-strips, bandage tape, tweezers, small storage case',
     10.00,
     1.65],
     ['Hygiene',
-    'Chapstick, <a id="alba-botanica-sport-spf-45-mineral-sunscreen_data" rel="nofollow" target="_blank" href="https://www.amazon.com/dp/B00I3DJ796/?tag=ltrl-20">mineral sunscreen</a> 15ml, <a id="sawyer-picaridin-insect-repellent_data" rel="nofollow" target="_blank" href="https://www.amazon.com/dp/B002CMOM3U/?tag=ltrl-20">picaridin insect repellent</a> 15ml, <a id="safehands-alcohol-free-foaming-hand-sanitizer_data" rel="nofollow" target="_blank" href="https://www.amazon.com/dp/B07Z5KDTJ9/?tag=ltrl-20">benzalkonium hand sanitizer</a> 15ml, <a id="travelon-hand-soap-toiletry-sheets_data" rel="nofollow" target="_blank" href="https://www.amazon.com/dp/B001CGOPZM/?tag=ltrl-20">soap sheets</a>, toothbrush, toothpaste, floss, <a id="thetentlab-deuce-potty-trowel_data" rel="nofollow" target="_blank" href="https://www.amazon.com/dp/B0797XK6XW/?tag=ltrl-20">Deuce #1 trowel</a>',
+    '<strong>All items unscented</strong>: Chapstick, <a id="alba-botanica-sport-spf-45-mineral-sunscreen_data" rel="nofollow" target="_blank" href="https://www.amazon.com/dp/B00I3DJ796/?tag=ltrl-20">mineral sunscreen</a> 15mL, <a id="sawyer-picaridin-insect-repellent_data" rel="nofollow" target="_blank" href="https://www.amazon.com/dp/B0015KG5NK/?tag=ltrl-20">picaridin insect repellent</a> (pump spray, not lotion) 15mL, <a id="safehands-alcohol-free-foaming-hand-sanitizer_data" rel="nofollow" target="_blank" href="https://www.amazon.com/dp/B07Z5KDTJ9/?tag=ltrl-20">benzalkonium hand sanitizer</a> 15mL, <a id="wheaton-15ml-dropper-bottle_data" rel="nofollow" target="_blank" href="https://www.amazon.com/dp/B003KRP1O0/?tag=ltrl-20">Wheaton 15mL Dropper Bottle</a> x3 (for repackaging), <a id="travelon-hand-soap-toiletry-sheets_data" rel="nofollow" target="_blank" href="https://www.amazon.com/dp/B001CGOPZM/?tag=ltrl-20">soap sheets</a>, toothbrush, toothpaste, floss, <a id="thetentlab-deuce-potty-trowel_data" rel="nofollow" target="_blank" href="https://www.amazon.com/dp/B07YYNTS7W/?tag=ltrl-20">Deuce #1 trowel</a>',
     25.00,
     3.50],
     ['Electronics',
@@ -158,11 +158,11 @@ $gearData = [
     27.95,
     2.00],
     ['Food Prep',
-    '<a id="toaks-light-titanium-650ml-pot_data" rel="nofollow" target="_blank" href="https://www.amazon.com/dp/B00SMFNAZW/?tag=ltrl-20">650ml Ti Mug</a>, <a id="msr-pocket-rocket-2-stove_data" rel="nofollow" target="_blank" href="https://www.amazon.com/dp/B01N5O7551/?tag=ltrl-20">MSR Pocket Rocket 2 stove</a>, <a id="toaks-ti-long-handle-polished-bowl-spoon_data" rel="nofollow" target="_blank" href="https://www.amazon.com/dp/B00J1BV01C/?tag=ltrl-20">Ti long handle polished bowl spoon</a>, <a id="zpacks-mini-stuff-sack_data" rel="nofollow" target="_blank" href="https://zpacks.com/products/mini-stuff-sack?aff=37">Zpacks Mini Stuff Sack</a>, cozy, rag',
+    '<a id="toaks-light-titanium-650ml-pot_data" rel="nofollow" target="_blank" href="https://www.amazon.com/dp/B00SMFNAZW/?tag=ltrl-20">650ml Ti Mug</a>, <a id="msr-pocket-rocket-2-stove_data" rel="nofollow" target="_blank" href="https://www.amazon.com/dp/B01N5O7551/?tag=ltrl-20">MSR Pocket Rocket 2 stove</a>, <a id="toaks-ti-long-handle-polished-bowl-spoon_data" rel="nofollow" target="_blank" href="https://www.avantlink.com/click.php?tt=pl&ti=19&pw=149605&mi=10008&pt=3&pri=1123580">Ti long handle polished bowl spoon</a>, <a id="zpacks-mini-stuff-sack_data" rel="nofollow" target="_blank" href="https://zpacks.com/products/mini-stuff-sack?aff=37">Zpacks Mini Stuff Sack</a>, cozy, rag',
     95.00,
     6.75],
     ['Food Storage',
-    'Grocery store plastic bag (thicker type). Upgrade: <a id="liteaf-flat-bottom-food-bag_data" rel="nofollow" target="_blank" href="https://liteaf.com/product/flat-bottom-bear-bag-food-bag-only/">LiteAF Flat Bottom Food Bag</a>, 11L Size S',
+    'Grocery store plastic bag (thicker type). Upgrade: <a id="hilltop-packs-flat-bottom-food-bag" rel="nofollow" target="_blank" href="http://partners.hilltoppacks.com/163081/10882">Hilltop Packs Flat Bottom Food Bag</a>, 11L Size S',
     0.00,
     0.90]
 ];
@@ -178,7 +178,7 @@ $consumablesData = [
     50.00,
     80.00],
     ['Fuel',
-    '1x3.9oz (110g) <a id="msr-isopro-fuel-canister_data" rel="nofollow" target="_blank" href="https://www.amazon.com/dp/B00BN6UTQK/?tag=ltrl-20">MSR IsoPro fuel canister</a>',
+    '1x3.9oz (110g) <a id="msr-isopro-fuel-canister-110g_data" rel="nofollow" target="_blank" href="https://www.avantlink.com/click.php?tt=pl&ti=115&pw=149605&mi=10248&pt=3&pri=792307">MSR IsoPro fuel canister</a>',
     4.95,
     7.40]
 ];
