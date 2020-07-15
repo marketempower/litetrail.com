@@ -7,8 +7,8 @@ feature = "ultralight-backpacking-gear-list.webp"
 maxWidthContent = "max-w-6xl"
 
 # LOCAL-DEV ONLY! UNCOMMENT TO PRINT PDF VERSION
-type = "chromeless"
-layout = "gear-list"
+#type = "chromeless"
+#layout = "gear-list"
 +++
 
 {{< blocks/section width="max-w-680" mdown=off >}}
