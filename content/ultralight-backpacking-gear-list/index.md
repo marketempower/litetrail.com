@@ -18,7 +18,7 @@ maxWidthContent = "max-w-6xl"
 {{< /blocks/section >}}
 
 {{< blocks/justify >}}
-{{< button text="Download Printable PDF" type="base" icon="download" href="v1594834081/pdf/2020-ultralight-backpacking-gear-list-9-lb.pdf" >}}
+{{< button text="Download Printable PDF" type="base" icon="download" id="download-printable-pdf_button" href="v1594834081/pdf/2020-ultralight-backpacking-gear-list-9-lb.pdf" >}}
 {{< /blocks/justify >}}
 
 {{< blocks/section width="max-w-680" >}}
