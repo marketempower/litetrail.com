@@ -1,6 +1,6 @@
 +++
 date = 2020-06-15T14:00:00Z
-lastmod = 2020-07-15T17:00:00Z
+lastmod = 2020-07-17T19:00:00Z
 title = "2020 Ultralight Backpacking Gear List 9 lb"
 caption = "Stoke level way up on an icy morning. Ojai, CA. Photo: Nick Bobroff"
 feature = "ultralight-backpacking-gear-list.webp"
@@ -12,7 +12,7 @@ maxWidthContent = "max-w-6xl"
 +++
 
 {{< blocks/section width="max-w-680" mdown=off >}}
-<time class="text-raven-700" datetime="2020-07-15T17:00:00Z">Updated July 15, 2020.</time>
+<time class="text-raven-700" datetime="2020-07-17T19:00:00Z">Updated July 17, 2020.</time>
 
 <p class="lead mt-0">Over a decade of refinement, obsession, and testing has gone into the creation of this ultralight backpacking gear list. A sub 10-pound backpacking base weight, 3-season capable, durable, efficient, full-featured, and smile enhancing UL gear list. Comfortable in temperatures down to 20&#8457;, with generous safety, survival, and first aid essentials.</p>
 {{< /blocks/section >}}
@@ -40,10 +40,27 @@ maxWidthContent = "max-w-6xl"
 {{% page-resource "01-worn-carried-data" %}}
 {{% page-resource "02-basepack-backpack-info" %}}
 {{% page-resource "02-basepack-backpack-data" %}}
+
+#### Alternatives
+
+If you prefer a backpack with a more robust internal-frame and hipbelt the {{< affiliate/a-href "Hyperlite Mountain Gear 2400 Junction" "https://www.avantlink.com/click.php?tt=pl&ti=3502&pw=149605&mi=13582&pt=3&pri=340" "hyperlite-mountain-gear-2400-junction_alternate" >}} backpack ($310.00, 30.12 oz) is a great choice. We like the Junction because it has more durable side pockets than the Windrider. Since HMG backpacks are seam-sealed, you might consider skipping a pack liner.
+
 {{% page-resource "03-basepack-shelter-info" %}}
 {{% page-resource "03-basepack-shelter-data" %}}
+
+#### Alternatives
+
+If you prefer a fully enclosed shelter, the {{< affiliate/a-href "Zpacks Plexamid Tent" "https://zpacks.com/products/plexamid-tent?aff=37" "zpacks-plexamid-tent_alternate" >}} ($549.00, 15.3 oz) is an excellent choice. Since the Plexamid comes with a bathtub floor, you might consider skipping the groundsheet.
+
 {{% page-resource "04-basepack-sleeping-info" %}}
 {{% page-resource "04-basepack-sleeping-data" %}}
+
+#### Alternatives
+
+If you prefer the versatility a quilt offers, the {{< affiliate/a-href "Enlightened Equipment Enigma Quilt" "https://enlightenedequipment.com/enigma-custom/" "enlightened-equipment-enigma-quilt_alternate" >}} one of our favorites. We like the 20&#8457; version for cold Sierra nights.
+
+If you prefer the comfort an inflatable pad offers, the {{< affiliate/a-href "Thermarest NeoAir XLite" "https://www.amazon.com/dp/B07YFX3X31/?tag=ltrl-20" "thermarest-neoair-xlite_alternate" >}} ($174.95, 12.00 oz) weighs the same as our closed-cell foam pad above. If you're under 5' 10" tall, the Women's size is a favorite.
+
 {{% page-resource "05-basepack-clothing-info" %}}
 {{% page-resource "05-basepack-clothing-data" %}}
 {{% page-resource "06-basepack-gear-info" %}}
@@ -70,9 +87,7 @@ On a thru hike one needs to account for things like town stops, recharging elect
 
 ### Plug and Play
 
-Many of the items in this list can be switched out for your preferred type, and not adversely effect the 10-pound threshold. For example, you may prefer a fully enclosed shelter with bug netting such as the {{< affiliate/a-href "Zpacks Plexamid Tent" "https://zpacks.com/products/plexamid-tent?aff=37" "zpacks-plexamid-tent_text" >}} (15.3 oz.), or a backpack with more support such as the {{< affiliate/a-href "Hyperlite Mountain Gear 2400 Junction" "https://www.avantlink.com/click.php?tt=pl&ti=3502&pw=149605&mi=13582&pt=3&pri=340" "hyperlite-mountain-gear-2400-junction_text" >}} (30.1oz).
-
-Think of this list as a template, and as long as you plug in items with similar function and weight, the end result will be a list customized for your needs that maintains a happy balance between weight and experience, while keeping you safe - so long as you fill up the space between your ears with the right knowledge, skills, and experience.
+Many of the items in this list can be switched out for your preferred type, and not adversely effect the 10-pound threshold. Think of this list as a template, and as long as you plug-in items with similar function and weight, the end result will be a list customized for your needs that maintains a happy balance between weight and experience, while keeping you safe - so long as you fill up the space between your ears with the right knowledge, skills, and experience.
 
 ### Archived Gear Lists
 

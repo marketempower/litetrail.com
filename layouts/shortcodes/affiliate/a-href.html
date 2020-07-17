@@ -27,4 +27,4 @@
 {{- end }}
 {{- $nofollow = $nofollow | default "on" -}}
 {{- $blank = $blank | default "on" -}}
-<a{{ with $id }} id="{{ . }}"{{ end }}{{ with $class }} class="{{ . }}"{{ end }}{{ if eq $nofollow "on" }} rel="nofollow"{{ end }}{{ if eq $blank "on" }} target="_blank"{{ end }} href="{{ $href | safeHTMLAttr }}">{{ $text }}</a>
+<a{{ with $id }} id="{{ . }}"{{ end }}{{ with $class }} class="{{ . }}"{{ end }}{{ if eq $nofollow "on" }} rel="nofollow"{{ end }}{{ if eq $blank "on" }} target="_blank"{{ end }} href="{{ $href | safeHTMLAttr }}">{{ $text | safeHTML }}</a>
