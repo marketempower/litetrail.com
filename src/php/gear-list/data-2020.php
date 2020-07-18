@@ -162,7 +162,7 @@ $gearData = [
     95.00,
     6.75],
     ['Food Storage',
-    'Grocery store plastic bag (thicker type). Upgrade: <a id="hilltop-packs-flat-bottom-food-bag" rel="nofollow" target="_blank" href="http://partners.hilltoppacks.com/163081/10882">Hilltop Packs Flat Bottom Food Bag</a>, 11L Size S',
+    'Grocery store plastic bag (thicker type). Upgrade: <a id="hilltop-packs-flat-bottom-food-bag" rel="nofollow" target="_blank" href="http://partners.hilltoppacks.com/163081/10882/url_14890">Hilltop Packs Flat Bottom Food Bag</a>, 11L Size S',
     0.00,
     0.90]
 ];
