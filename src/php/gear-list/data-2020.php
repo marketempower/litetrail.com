@@ -37,6 +37,10 @@ $backpackData = [
     '<a id="palante-packs-v2-backpack_data" rel="nofollow" target="_blank" href="https://palantepacks.com/product/v2/">Pa\'lante Packs V2 Backpack</a>, S18 Black 37L Size 19", non-hipbelt version',
     245.00,
     15.70],
+    ['Alternate',
+    'Internal Frame, Hipbelt w/Pockets: <a id="hyperlite-mountain-gear-2400-junction_data" rel="nofollow" target="_blank" href="https://www.avantlink.com/click.php?tt=pl&ti=3502&pw=149605&mi=13582&pt=3&pri=340">Hyperlite Mountain Gear 2400 Junction</a>, Size M',
+    310.00,
+    30.12],
     ['Pack Liner',
     '<a id="zpacks-nylopro-odor-barrier-bags_data" rel="nofollow" target="_blank" href="https://zpacks.com/products/nylopro-odor-barrier-bags?aff=37">Zpacks NyloPro Odor Barrier Bags</a>, Extra Large, 20"x36"',
     6.00,
@@ -49,18 +53,26 @@ $shelterData = [
     '<a id="zpacks-hexamid-pocket-tarp-w-doors_data" rel="nofollow" target="_blank" href="https://zpacks.com/products/hexamid-pocket-tarp-w-doors?aff=37">Zpacks Hexamid Pocket Tarp w/ Doors</a>, S20 DCF6',
     299.00,
     4.75],
-    ['Stakes',
-    '<a id="easton-aluminum-nano-nail-stakes_data" rel="nofollow" target="_blank" href="https://mountainlaureldesigns.com/product/easton-aluminum-nano-nail-stakes/">Easton Nano Spike</a> 2x8", <a id="msr-groundhog-tent-stake-kit_data" rel="nofollow" target="_blank" href="https://www.amazon.com/dp/B006ZC5KLG/?tag=ltrl-20">MSR GroundHog</a> 4x7.5", <a id="ti-shepherds-hook-stake-orange_data" rel="nofollow" target="_blank" href="https://www.amazon.com/dp/B001OPKGAO/?tag=ltrl-20">Ti Shepherd Hook</a> 4x6", <a id="mld-ul-cuben-fiber-stake-sacks_data" rel="nofollow" target="_blank" href="https://mountainlaureldesigns.com/product/ul-cuben-fiber-stake-sacks/">MLD DCF Tent Stake bag</a> Size L',
-    38.49,
-    3.75],
+    ['Alternate',
+    'Fully Enclosed w/Bathtub Floor: <a id="zpacks-plexamid-tent_data" rel="nofollow" target="_blank" href="https://zpacks.com/products/plexamid-tent?aff=37">Zpacks Plexamid Tent</a>, DCF6',
+    549.99,
+    15.30],
     ['Guylines',
     'Braided polyester dyneema core <a id="lawson-equipment-reflective-glowire_data" rel="nofollow" target="_blank" href="http://www.avantlink.com/click.php?tt=pl&ti=3629&pw=149605&mi=13757&pt=3&pri=967">2mm reflective</a> 1x75", 2x54", 5x32", <a id="zpacks-z-line-cord-1mm_data" rel="nofollow" target="_blank" href="https://zpacks.com/products/50-feet-1-2-mm-z-line-cord?aff=37">1mm accessory</a> 1x96"',
     0,
     1.15],
+    ['Stakes',
+    '<a id="easton-aluminum-nano-nail-stakes_data" rel="nofollow" target="_blank" href="https://mountainlaureldesigns.com/product/easton-aluminum-nano-nail-stakes/">Easton Nano Spike</a> 2x8", <a id="msr-groundhog-tent-stake-kit_data" rel="nofollow" target="_blank" href="https://www.amazon.com/dp/B006ZC5KLG/?tag=ltrl-20">MSR GroundHog</a> 4x7.5", <a id="ti-shepherds-hook-stake-orange_data" rel="nofollow" target="_blank" href="https://www.amazon.com/dp/B001OPKGAO/?tag=ltrl-20">Ti Shepherd Hook</a> 4x6", <a id="mld-ul-cuben-fiber-stake-sacks_data" rel="nofollow" target="_blank" href="https://mountainlaureldesigns.com/product/ul-cuben-fiber-stake-sacks/">MLD DCF Tent Stake bag</a> Size L',
+    38.49,
+    3.75],
     ['Groundsheet',
-    '<a id="duck-window-shrink-film_data" rel="nofollow" target="_blank" href="https://www.amazon.com/dp/B002GKC2GW/?tag=ltrl-20">Window Shrink Film</a> (Polycryo) 44x84"',
+    '<a id="duck-window-shrink-film_data" rel="nofollow" target="_blank" href="https://www.amazon.com/dp/B002GKC2GW/?tag=ltrl-20">Window Shrink Film</a> 44x84"',
     2.25,
-    1.50]
+    1.50],
+    ['Alternate',
+    '<a id="gossamer-gear-polycryo-tent-footprint-ground-cloths_data" rel="nofollow" target="_blank" href="https://www.gossamergear.com/collections/accessories/products/polycryo-tent-footprint-ground-cloths">Gossamer Gear Polycryo (Tent Footprint) Ground Cloths</a>, Size M 40x96"',
+    6.00,
+    1.60]
 ];
 
 $sleepingTitle = 'Base Pack: Sleeping';
@@ -69,10 +81,18 @@ $sleepingData = [
     '<a id="feathered-friends-tanager-cfl-20-sleeping-bag_data" rel="nofollow" target="_blank" href="https://featheredfriends.com/products/tanager-cfl-20-ultralight-down-sleeping-bag">Feathered Friends Tanager 20 CFL</a>, S20 68" 12.6oz 950+ down fill',
     369.00,
     18.60],
+    ['Alternate',
+    'Quilt w/Sewn Footbox: <a id="enlightened-equipment-enigma-quilt_data" rel="nofollow" target="_blank" href="https://enlightenedequipment.com/enigma-custom/">Enlightened Equipment Enigma Quilt</a>, 20&#8457;, 7D shell, 13.83oz 950 down fill',
+    410.00,
+    19.25],
     ['Sleeping Pad',
     '<a id="nemo-switchback-sleeping-pad_data" rel="nofollow" target="_blank" href="https://www.avantlink.com/click.php?tt=pl&ti=115&pw=149605&mi=10248&pt=3&pri=647426">NEMO Switchback</a>, Size Regular* (two panels removed), S20',
     49.95,
     12.60],
+    ['Alternate',
+    'Inflatable Pad: <a id="thermarest-neoair-xlite_data" rel="nofollow" target="_blank" href="https://www.amazon.com/dp/B07YFX3X31/?tag=ltrl-20">Thermarest NeoAir XLite</a>, Size Women\'s R',
+    174.95,
+    12.00],
     ['Pillow',
     '<a id="big-sky-dreamsleeper-ultralight-pillow_data" rel="nofollow" target="_blank" href="https://www.amazon.com/dp/B010489Y68/?tag=ltrl-20">Big Sky DreamSleeper UltraLight Pillow</a>',
     24.95,
@@ -114,9 +134,13 @@ $clothingData = [
     115.00,
     6.25],
     ['Stuff Sack',
-    'Use Pack Liner. Optional: <a id="zpacks-medium-stuff-sack_data" rel="nofollow" target="_blank" href="https://zpacks.com/products/medium-stuff-sack?aff=37">Zpacks Medium Stuff Sack</a>',
+    'Use Pack Liner (multi-use)',
     0,
-    0]
+    0],
+    ['Alternate',
+    'DCF: <a id="zpacks-medium-stuff-sack_data" rel="nofollow" target="_blank" href="https://zpacks.com/products/medium-stuff-sack?aff=37">Zpacks Medium Stuff Sack</a>',
+    20.00,
+    0.25]
 ];
 
 $gearTitle = 'Base Pack: Gear';
@@ -162,9 +186,13 @@ $gearData = [
     95.00,
     6.75],
     ['Food Storage',
-    'Grocery store plastic bag (thicker type). Upgrade: <a id="hilltop-packs-flat-bottom-food-bag" rel="nofollow" target="_blank" href="http://partners.hilltoppacks.com/163081/10882/url_14890">Hilltop Packs Flat Bottom Food Bag</a>, 11L Size S',
+    'Two-handle grocery store plastic bag (thicker type)',
     0.00,
-    0.90]
+    0.90],
+    ['Alternate',
+    'DCF Roll-Top w/Flat Bottom: <a id="hilltop-packs-flat-bottom-food-bag" rel="nofollow" target="_blank" href="http://partners.hilltoppacks.com/163081/10882/url_14890">Hilltop Packs Flat Bottom Food Bag</a>, 11L Size S',
+    37.00,
+    1.00]
 ];
 
 $consumablesTitle = 'Consumables';

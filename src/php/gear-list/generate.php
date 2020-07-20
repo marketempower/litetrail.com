@@ -49,12 +49,24 @@ function tableHeader($title)
 
 function tableRowItem($item, $desc, $cost, $weight)
 {
-  $s = '<tr>'.PHP_EOL;
-  $s .= '<td class="border-t">'.$item.'</td>'.PHP_EOL;
-  $s .= '<td class="border-t border-l">'.$desc.'</td>'.PHP_EOL;
-  $s .= '<td class="border-t border-l text-right">'.$cost.'</td>'.PHP_EOL;
-  $s .= '<td class="border-t border-l text-right">'.$weight.'</td>'.PHP_EOL;
-  $s .= '</tr>'.PHP_EOL;
+  if ($item == "Alternate")
+  {
+    $s = '<tr>'.PHP_EOL;
+    $s .= '<td class="border-t text-right text-gray-500">'.$item.'</td>'.PHP_EOL;
+    $s .= '<td class="border-t border-l">'.$desc.'</td>'.PHP_EOL;
+    $s .= '<td class="border-t border-l text-right text-gray-500">'.$cost.'</td>'.PHP_EOL;
+    $s .= '<td class="border-t border-l text-right text-gray-500">'.$weight.'</td>'.PHP_EOL;
+    $s .= '</tr>'.PHP_EOL;
+  }
+  else
+  {
+    $s = '<tr>'.PHP_EOL;
+    $s .= '<td class="border-t">'.$item.'</td>'.PHP_EOL;
+    $s .= '<td class="border-t border-l">'.$desc.'</td>'.PHP_EOL;
+    $s .= '<td class="border-t border-l text-right">'.$cost.'</td>'.PHP_EOL;
+    $s .= '<td class="border-t border-l text-right">'.$weight.'</td>'.PHP_EOL;
+    $s .= '</tr>'.PHP_EOL;
+  }
 
   return $s;
 }
@@ -131,8 +143,10 @@ for ($i=0; $i < $d ; $i++)
         toWeightFormat($carriedData[$i][3]) // Weight
     );
 
-    $carriedCost += $carriedData[$i][2]; // Total Cost
-    $carriedWeight += $carriedData[$i][3]; // Total Weight
+    if ($carriedData[$i][0] != "Alternate") {
+      $carriedCost += $carriedData[$i][2]; // Total Cost
+      $carriedWeight += $carriedData[$i][3]; // Total Weight
+    }
 }
 
 $s .= tableTotal(
@@ -163,8 +177,10 @@ for ($i=0; $i < $d ; $i++)
         toWeightFormat($backpackData[$i][3]) // Weight
     );
 
-    $backpackCost += $backpackData[$i][2]; // Total Cost
-    $backpackWeight += $backpackData[$i][3]; // Total Weight
+    if ($backpackData[$i][0] != "Alternate") {
+      $backpackCost += $backpackData[$i][2]; // Total Cost
+      $backpackWeight += $backpackData[$i][3]; // Total Weight
+    }
 }
 
 $s .= tableTotal(
@@ -195,8 +211,10 @@ for ($i=0; $i < $d ; $i++)
         toWeightFormat($shelterData[$i][3]) // Weight
     );
 
-    $shelterCost += $shelterData[$i][2]; // Total Cost
-    $shelterWeight += $shelterData[$i][3]; // Total Weight
+    if ($shelterData[$i][0] != "Alternate") {
+      $shelterCost += $shelterData[$i][2]; // Total Cost
+      $shelterWeight += $shelterData[$i][3]; // Total Weight
+    }
 }
 
 $s .= tableTotal(
@@ -227,8 +245,10 @@ for ($i=0; $i < $d ; $i++)
         toWeightFormat($sleepingData[$i][3]) // Weight
     );
 
-    $sleepingCost += $sleepingData[$i][2]; // Total Cost
-    $sleepingWeight += $sleepingData[$i][3]; // Total Weight
+    if ($sleepingData[$i][0] != "Alternate") {
+      $sleepingCost += $sleepingData[$i][2]; // Total Cost
+      $sleepingWeight += $sleepingData[$i][3]; // Total Weight
+    }
 }
 
 $s .= tableTotal(
@@ -259,8 +279,10 @@ for ($i=0; $i < $d ; $i++)
         toWeightFormat($clothingData[$i][3]) // Weight
     );
 
-    $clothingCost += $clothingData[$i][2]; // Total Cost
-    $clothingWeight += $clothingData[$i][3]; // Total Weight
+    if ($clothingData[$i][0] != "Alternate") {
+      $clothingCost += $clothingData[$i][2]; // Total Cost
+      $clothingWeight += $clothingData[$i][3]; // Total Weight
+    }
 }
 
 $s .= tableTotal(
@@ -291,8 +313,10 @@ for ($i=0; $i < $d ; $i++)
         toWeightFormat($gearData[$i][3]) // Weight
     );
 
-    $gearCost += $gearData[$i][2]; // Total Cost
-    $gearWeight += $gearData[$i][3]; // Total Weight
+    if ($gearData[$i][0] != "Alternate") {
+      $gearCost += $gearData[$i][2]; // Total Cost
+      $gearWeight += $gearData[$i][3]; // Total Weight
+    }
 }
 
 $s .= tableTotal(
@@ -323,8 +347,10 @@ for ($i=0; $i < $d ; $i++)
         toWeightFormat($consumablesData[$i][3]) // Weight
     );
 
-    $consumablesCost += $consumablesData[$i][2]; // Total Cost
-    $consumablesWeight += $consumablesData[$i][3]; // Total Weight
+    if ($consumablesData[$i][0] != "Alternate") {
+      $consumablesCost += $consumablesData[$i][2]; // Total Cost
+      $consumablesWeight += $consumablesData[$i][3]; // Total Weight
+    }
 }
 
 $s .= tableTotal(

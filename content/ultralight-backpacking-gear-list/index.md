@@ -40,13 +40,10 @@ maxWidthContent = "max-w-6xl"
 {{% page-resource "01-worn-carried-data" %}}
 {{% page-resource "02-basepack-backpack-info" %}}
 {{% page-resource "02-basepack-backpack-data" %}}
-{{% page-resource "02-basepack-backpack-alts" %}}
 {{% page-resource "03-basepack-shelter-info" %}}
 {{% page-resource "03-basepack-shelter-data" %}}
-{{% page-resource "03-basepack-shelter-alts" %}}
 {{% page-resource "04-basepack-sleeping-info" %}}
 {{% page-resource "04-basepack-sleeping-data" %}}
-{{% page-resource "04-basepack-sleeping-alts" %}}
 {{% page-resource "05-basepack-clothing-info" %}}
 {{% page-resource "05-basepack-clothing-data" %}}
 {{% page-resource "06-basepack-gear-info" %}}
