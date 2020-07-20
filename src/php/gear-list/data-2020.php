@@ -134,7 +134,7 @@ $clothingData = [
     115.00,
     6.25],
     ['Stuff Sack',
-    'Use Pack Liner (multi-use)',
+    'Use backpack pack liner (multi-use)',
     0,
     0],
     ['Alternate',
