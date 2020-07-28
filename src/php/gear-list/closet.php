@@ -41,8 +41,14 @@
 
 <a id="light-my-fire-swedish-firesteel-2-scout_data" rel="nofollow" target="_blank" href="https://www.amazon.com/dp/B00440VJMU/?tag=ltrl-20">Light My Fire Swedish FireSteel 2.0 Scout</a>, <a id="four-seasons-survival-tinder-quik-fire-tab_data" rel="nofollow" target="_blank" href="https://www.amazon.com/dp/B00029EWYY/?tag=ltrl-20">TinderQuik</a>
 
-['Food Storage',
-'<a rel="nofollow" href="https://liteaf.com/product/flat-bottom-bear-bag-food-bag-only/">LiteAF Flat Bottom Food Bag</a>, 11L Size S',
+
+['Alternate',
+'DCF Roll-Top w/Flat Bottom: <a id="liteaf-flat-bottom-food-bag_data" rel="nofollow" target="_blank" href="https://www.avantlink.com/click.php?tt=pl&ti=3629&pw=149605&mi=13757&pt=3&pri=988">LiteAF Flat Bottom Food Bag</a>, 11L Size S',
 21.95,
-1.22],
+1.20],
+
+['Alternate',
+'DCF Roll-Top w/Flat Bottom: <a id="hilltop-packs-flat-bottom-food-bag_data" rel="nofollow" target="_blank" href="http://partners.hilltoppacks.com/163081/10882/url_14890">Hilltop Packs Flat Bottom Food Bag</a>, 11L Size S',
+37.00,
+1.00],
 ?>
