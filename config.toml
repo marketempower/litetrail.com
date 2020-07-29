@@ -74,10 +74,14 @@ raw = "raw/upload/"
 video = "video/upload/"
 
 [params.cloudinary.presets]
-base = "f_auto,q_auto/"
-page = "w_auto,dpr_auto,c_scale,f_auto,q_auto/"
-feature = "w_auto,dpr_auto,c_scale,f_auto,q_auto/"
-summary = "w_auto,dpr_auto,c_scale,f_auto,q_auto/"
+base = ""
+page = ""
+feature = ""
+summary = ""
+# base = "f_auto,q_auto/"
+# page = "w_auto,dpr_auto,c_scale,f_auto,q_auto/"
+# feature = "w_auto,dpr_auto,c_scale,f_auto,q_auto/"
+# summary = "w_auto,dpr_auto,c_scale,f_auto,q_auto/"
 
 [outputs]
 home = ["HTML", "ATOM"]
