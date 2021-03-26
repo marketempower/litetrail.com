@@ -27,7 +27,7 @@ maxWidthContent = "max-w-6xl"
 {{< /blocks/justify >}}
 
 {{< blocks/section width="max-w-680" >}}
-> The following UL backpacking gear list contains the author's* personal selections currently used for the 2020 season. *Male, 5 ft 9 in, 160 lbs/ 175 cm, 72.5 kg.
+> The following UL backpacking gear list contains the author's* personal selections currently used for the 2021 season. *Male, 5 ft 9 in, 160 lbs/ 175 cm, 72.5 kg.
 {{< /blocks/section >}}
 
 * * *
