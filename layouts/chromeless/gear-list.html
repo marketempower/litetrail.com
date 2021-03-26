@@ -17,7 +17,8 @@
 {{ .Content }}
 
 <div class="text-sm text-center text-gray-500 mt-0" style="margin-top:1rem;">
-  Copyright 2012-2020 LiteTrail. All Rights Reserved.
+  {{- $copyright := (T "copyright" .) | default .Site.Copyright | default .Site.Title }}
+  &#169; {{ .Site.Params.copyrightYear }}-{{ dateFormat "2006" now.UTC }} {{ $copyright }}
 </div>
 </div>
 {{ end }}

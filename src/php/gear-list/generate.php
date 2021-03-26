@@ -1,7 +1,7 @@
 <?php
 setlocale(LC_MONETARY, 'en_US');
 
-include './data-2020.php';
+include './data-2021.php';
 
 $outputPath = '../../../content/ultralight-backpacking-gear-list/';
 
@@ -49,7 +49,7 @@ function tableHeader($title)
 
 function tableRowItem($item, $desc, $cost, $weight)
 {
-  if ($item == "Alternate")
+  if ($item == "Alternate" || $item == "Optional")
   {
     $s = '<tr>'.PHP_EOL;
     $s .= '<td class="border-t text-right text-gray-500">'.$item.'</td>'.PHP_EOL;
@@ -143,7 +143,7 @@ for ($i=0; $i < $d ; $i++)
         toWeightFormat($carriedData[$i][3]) // Weight
     );
 
-    if ($carriedData[$i][0] != "Alternate") {
+    if ($carriedData[$i][0] != "Alternate" && $carriedData[$i][0] != "Optional") {
       $carriedCost += $carriedData[$i][2]; // Total Cost
       $carriedWeight += $carriedData[$i][3]; // Total Weight
     }
@@ -177,7 +177,7 @@ for ($i=0; $i < $d ; $i++)
         toWeightFormat($backpackData[$i][3]) // Weight
     );
 
-    if ($backpackData[$i][0] != "Alternate") {
+    if ($backpackData[$i][0] != "Alternate" && $backpackData[$i][0] != "Optional") {
       $backpackCost += $backpackData[$i][2]; // Total Cost
       $backpackWeight += $backpackData[$i][3]; // Total Weight
     }
@@ -211,7 +211,7 @@ for ($i=0; $i < $d ; $i++)
         toWeightFormat($shelterData[$i][3]) // Weight
     );
 
-    if ($shelterData[$i][0] != "Alternate") {
+    if ($shelterData[$i][0] != "Alternate" && $shelterData[$i][0] != "Optional") {
       $shelterCost += $shelterData[$i][2]; // Total Cost
       $shelterWeight += $shelterData[$i][3]; // Total Weight
     }
@@ -245,7 +245,7 @@ for ($i=0; $i < $d ; $i++)
         toWeightFormat($sleepingData[$i][3]) // Weight
     );
 
-    if ($sleepingData[$i][0] != "Alternate") {
+    if ($sleepingData[$i][0] != "Alternate" && $sleepingData[$i][0] != "Optional") {
       $sleepingCost += $sleepingData[$i][2]; // Total Cost
       $sleepingWeight += $sleepingData[$i][3]; // Total Weight
     }
@@ -279,7 +279,7 @@ for ($i=0; $i < $d ; $i++)
         toWeightFormat($clothingData[$i][3]) // Weight
     );
 
-    if ($clothingData[$i][0] != "Alternate") {
+    if ($clothingData[$i][0] != "Alternate" && $clothingData[$i][0] != "Optional") {
       $clothingCost += $clothingData[$i][2]; // Total Cost
       $clothingWeight += $clothingData[$i][3]; // Total Weight
     }
@@ -313,7 +313,7 @@ for ($i=0; $i < $d ; $i++)
         toWeightFormat($gearData[$i][3]) // Weight
     );
 
-    if ($gearData[$i][0] != "Alternate") {
+    if ($gearData[$i][0] != "Alternate" && $gearData[$i][0] != "Optional") {
       $gearCost += $gearData[$i][2]; // Total Cost
       $gearWeight += $gearData[$i][3]; // Total Weight
     }
@@ -347,7 +347,7 @@ for ($i=0; $i < $d ; $i++)
         toWeightFormat($consumablesData[$i][3]) // Weight
     );
 
-    if ($consumablesData[$i][0] != "Alternate") {
+    if ($consumablesData[$i][0] != "Alternate" && $consumablesData[$i][0] != "Optional") {
       $consumablesCost += $consumablesData[$i][2]; // Total Cost
       $consumablesWeight += $consumablesData[$i][3]; // Total Weight
     }

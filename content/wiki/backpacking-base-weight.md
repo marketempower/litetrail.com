@@ -1,6 +1,6 @@
 +++
-date = 2020-07-05T19:00:00Z
-lastmod = 2020-07-05T19:00:00Z
+date = 2021-03-21T19:00:00Z
+lastmod = 2021-03-21T19:00:00Z
 title = "Backpacking Base Weight"
 caption = "Super Ultralight backpacking post forest fire."
 feature = "wiki/backpacking-base-weight.webp"

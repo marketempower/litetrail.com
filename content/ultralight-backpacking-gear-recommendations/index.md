@@ -1,14 +1,14 @@
 +++
-date = 2020-06-15T14:00:00Z
-lastmod = 2020-06-15T14:00:00Z
-title = "2020 Ultralight Backpacking Gear Recommendations"
+date = 2021-03-21T14:00:00Z
+lastmod = 2021-03-21T14:00:00Z
+title = "2021 Ultralight Backpacking Gear Recommendations"
 caption = "Navigating on the PCT near Idyllwild, CA."
 feature = "ultralight-backpacking-gear-recommendations.webp"
 maxWidthContent = "max-w-4xl"
 +++
 
 {{< blocks/section width="max-w-680" >}}
-<p class="lead">Our favorite pieces of ultralight backpacking gear for 2020, hand picked and trail tested. Many of these items are used in our <a class="link" href="{{< relref "ultralight-backpacking-gear-list" >}}">9 lb Ultralight Backpacking Gear List 2020</a>.</p>
+<p class="lead">Our favorite pieces of ultralight backpacking gear for 2021, hand picked and trail tested. Many of these items are used in our <a class="link" href="{{< relref "ultralight-backpacking-gear-list" >}}">9 lb Ultralight Backpacking Gear List 2021</a>.</p>
 {{< /blocks/section >}}
 
 <div class="flex flex-wrap justify-between">

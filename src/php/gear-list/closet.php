@@ -1,5 +1,14 @@
-<?php
 <a id="locus-gear-cp3-trekking-poles_data" rel="nofollow" target="_blank" href="https://locusgear.com/items/cp3">Locus Gear CP3 Trekking Poles</a>
+
+<?php
+['Alternate',
+'Quilt w/Sewn Footbox: <a id="enlightened-equipment-enigma-quilt_data" rel="nofollow" target="_blank" href="https://www.avantlink.com/click.php?tt=pl&ti=6885&pw=149605&mi=17349&pt=3&pri=41">Enlightened Equipment Enigma Quilt</a>, 20&#8457;, Reg/Wide, 10D fabric, 14.57oz 950 down, W20',
+405.00,
+21.50],
+['Alternate',
+'Quilt w/Sewn Footbox: <a id="enlightened-equipment-enigma-quilt_data" rel="nofollow" target="_blank" href="https://www.avantlink.com/click.php?tt=pl&ti=6885&pw=149605&mi=17349&pt=3&pri=41">Enlightened Equipment Enigma Quilt</a>, 10&#8457;, Short/Wide, 10D fabric, 16.13oz 950 down, W20',
+425.00,
+22.80],
 
 'Backpack',
 '<a rel="nofollow" href="https://www.avantlink.com/click.php?tt=pl&ti=3502&pw=149605&mi=13582&pt=3&pri=340">Hyperlite Mountain Gear Windrider 2400</a>*, S19 Black 40L Size M',
